@@ -64,7 +64,7 @@
             "last_commit": "2024-06-25T18:13:44Z",
             "owner": "jlevy",
             "repo": "the-art-of-command-line",
-            "stars": 162113
+            "stars": 162129
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2026-04-02T12:47:36Z",
             "owner": "yuk7",
             "repo": "ArchWSL",
-            "stars": 7389
+            "stars": 7388
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2026-07-13T16:32:34Z",
             "owner": "yuk7",
             "repo": "wsldl",
-            "stars": 1944
+            "stars": 1943
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2022-01-25T08:55:48Z",
             "owner": "RoliSoft",
             "repo": "WSL-Distribution-Switcher",
-            "stars": 1667
+            "stars": 1666
           }
         },
         {
@@ -347,10 +347,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T22:57:47Z",
+            "last_commit": "2026-08-15T17:59:05Z",
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 104614
+            "stars": 104620
           }
         },
         {
@@ -364,7 +364,7 @@
             "last_commit": "2026-08-03T08:50:06Z",
             "owner": "alacritty",
             "repo": "alacritty",
-            "stars": 65376
+            "stars": 65390
           }
         },
         {
@@ -392,7 +392,7 @@
             "last_commit": "2025-09-02T17:17:02Z",
             "owner": "mintty",
             "repo": "wsltty",
-            "stars": 3197
+            "stars": 3196
           }
         },
         {
@@ -406,7 +406,7 @@
             "last_commit": "2020-09-11T05:43:11Z",
             "owner": "mskyaxl",
             "repo": "wsl-terminal",
-            "stars": 3125
+            "stars": 3124
           }
         },
         {
@@ -431,10 +431,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T06:35:31Z",
+            "last_commit": "2026-08-16T02:36:52Z",
             "owner": "ryantsai",
             "repo": "KKTerm",
-            "stars": 437
+            "stars": 438
           }
         }
       ],
@@ -454,7 +454,7 @@
             "last_commit": "2022-02-02T10:39:24Z",
             "owner": "DDoSolitary",
             "repo": "LxRunOffline",
-            "stars": 4269
+            "stars": 4268
           }
         },
         {
@@ -482,7 +482,7 @@
             "last_commit": "2026-07-20T01:40:13Z",
             "owner": "owu",
             "repo": "wsl-dashboard",
-            "stars": 3439
+            "stars": 3469
           }
         },
         {
@@ -496,7 +496,7 @@
             "last_commit": "2026-07-01T22:39:01Z",
             "owner": "octasoft-ltd",
             "repo": "wsl-ui",
-            "stars": 350
+            "stars": 351
           }
         },
         {
@@ -558,7 +558,7 @@
             "last_commit": "2026-08-14T16:54:08Z",
             "owner": "sakai135",
             "repo": "wsl-vpnkit",
-            "stars": 2945
+            "stars": 2944
           }
         },
         {
@@ -830,7 +830,7 @@
             "last_commit": "2026-08-14T14:35:19Z",
             "owner": "files-community",
             "repo": "Files",
-            "stars": 44628
+            "stars": 44635
           }
         },
         {
@@ -1043,10 +1043,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T08:03:04Z",
+            "last_commit": "2026-08-16T08:03:55Z",
             "owner": "microsoft",
             "repo": "WSL",
-            "stars": 33407
+            "stars": 33415
           }
         },
         {
@@ -1094,7 +1094,7 @@
             "last_commit": "2025-08-28T14:40:51Z",
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37450
+            "stars": 37456
           }
         },
         {
@@ -1108,7 +1108,7 @@
             "last_commit": "2026-06-21T09:36:55Z",
             "owner": "viatsko",
             "repo": "awesome-vscode",
-            "stars": 28961
+            "stars": 28965
           }
         },
         {
@@ -1122,7 +1122,7 @@
             "last_commit": "2026-05-21T14:27:17Z",
             "owner": "awesome-lists",
             "repo": "awesome-bash",
-            "stars": 9991
+            "stars": 9996
           }
         },
         {
@@ -1178,7 +1178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T08:51:04.359Z",
+    "last_updated": "2026-08-16T08:53:31.023Z",
     "original_repository": "sirredbeard/awesome-wsl",
     "original_repository_sha": "5d49b0947754828f7397a9d9df1da237e823d5c3",
     "enhanced_repository": "enhansome/enhansome-wsl",
