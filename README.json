@@ -17,7 +17,7 @@
                 "last_commit": "2024-06-25T18:13:44Z",
                 "owner": "jlevy",
                 "repo": "the-art-of-command-line",
-                "stars": 162121
+                "stars": 162124
               }
             },
             {
@@ -313,7 +313,7 @@
                 "last_commit": "2026-08-18T22:23:50Z",
                 "owner": "microsoft",
                 "repo": "terminal",
-                "stars": 104628
+                "stars": 104631
               }
             },
             {
@@ -328,7 +328,7 @@
                 "last_commit": "2026-08-17T19:36:06Z",
                 "owner": "alacritty",
                 "repo": "alacritty",
-                "stars": 65424
+                "stars": 65426
               }
             },
             {
@@ -425,7 +425,7 @@
                 "last_commit": "2022-02-02T10:39:24Z",
                 "owner": "DDoSolitary",
                 "repo": "LxRunOffline",
-                "stars": 4268
+                "stars": 4269
               }
             },
             {
@@ -455,7 +455,7 @@
                 "last_commit": "2026-07-20T01:40:13Z",
                 "owner": "owu",
                 "repo": "wsl-dashboard",
-                "stars": 3517
+                "stars": 3519
               }
             },
             {
@@ -537,7 +537,7 @@
                 "last_commit": "2026-08-19T02:51:52Z",
                 "owner": "sakai135",
                 "repo": "wsl-vpnkit",
-                "stars": 2944
+                "stars": 2945
               }
             },
             {
@@ -829,7 +829,7 @@
                 "last_commit": "2026-08-19T04:24:53Z",
                 "owner": "files-community",
                 "repo": "Files",
-                "stars": 44674
+                "stars": 44676
               }
             },
             {
@@ -1062,10 +1062,10 @@
             "archived": false,
             "id": 55626935,
             "language": "C++",
-            "last_commit": "2026-08-19T08:07:46Z",
+            "last_commit": "2026-08-19T10:28:16Z",
             "owner": "microsoft",
             "repo": "WSL",
-            "stars": 33437
+            "stars": 33439
           }
         },
         {
@@ -1199,8 +1199,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:01:34.815Z",
+    "last_updated": "2026-08-19T13:01:03.839Z",
     "original_repository": "sirredbeard/awesome-wsl",
+    "original_repository_id": 134102057,
     "original_repository_sha": "5d49b0947754828f7397a9d9df1da237e823d5c3",
     "enhanced_repository": "enhansome/enhansome-wsl",
     "enhanced_repository_description": null,
