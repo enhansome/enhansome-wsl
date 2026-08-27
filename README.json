@@ -67,7 +67,7 @@
                 "last_commit": "2024-06-25T18:13:44Z",
                 "owner": "jlevy",
                 "repo": "the-art-of-command-line",
-                "stars": 162175
+                "stars": 162179
               }
             },
             {
@@ -239,7 +239,7 @@
             "last_commit": "2026-04-02T12:47:36Z",
             "owner": "yuk7",
             "repo": "ArchWSL",
-            "stars": 7398
+            "stars": 7397
           }
         },
         {
@@ -454,10 +454,10 @@
                 "archived": false,
                 "id": 100060912,
                 "language": "C++",
-                "last_commit": "2026-08-27T03:04:05Z",
+                "last_commit": "2026-08-27T18:08:39Z",
                 "owner": "microsoft",
                 "repo": "terminal",
-                "stars": 104700
+                "stars": 104705
               }
             },
             {
@@ -472,7 +472,7 @@
                 "last_commit": "2026-08-26T04:17:18Z",
                 "owner": "alacritty",
                 "repo": "alacritty",
-                "stars": 65527
+                "stars": 65534
               }
             },
             {
@@ -517,7 +517,7 @@
                 "last_commit": "2020-09-11T05:43:11Z",
                 "owner": "mskyaxl",
                 "repo": "wsl-terminal",
-                "stars": 3124
+                "stars": 3123
               }
             },
             {
@@ -544,7 +544,7 @@
                 "archived": false,
                 "id": 1226151883,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T02:34:10Z",
+                "last_commit": "2026-08-27T13:11:36Z",
                 "owner": "ryantsai",
                 "repo": "KKTerm",
                 "stars": 447
@@ -569,7 +569,7 @@
                 "last_commit": "2022-02-02T10:39:24Z",
                 "owner": "DDoSolitary",
                 "repo": "LxRunOffline",
-                "stars": 4270
+                "stars": 4269
               }
             },
             {
@@ -599,7 +599,7 @@
                 "last_commit": "2026-08-25T00:14:52Z",
                 "owner": "owu",
                 "repo": "wsl-dashboard",
-                "stars": 3615
+                "stars": 3619
               }
             },
             {
@@ -666,7 +666,7 @@
                 "last_commit": "2025-03-01T13:59:15Z",
                 "owner": "wslutilities",
                 "repo": "wslu",
-                "stars": 3750
+                "stars": 3749
               }
             },
             {
@@ -681,7 +681,7 @@
                 "last_commit": "2026-08-25T03:29:43Z",
                 "owner": "sakai135",
                 "repo": "wsl-vpnkit",
-                "stars": 2951
+                "stars": 2950
               }
             },
             {
@@ -1007,10 +1007,10 @@
                 "archived": false,
                 "id": 164140756,
                 "language": "C#",
-                "last_commit": "2026-08-27T04:25:14Z",
+                "last_commit": "2026-08-27T16:27:51Z",
                 "owner": "files-community",
                 "repo": "Files",
-                "stars": 44786
+                "stars": 44787
               }
             },
             {
@@ -1085,7 +1085,7 @@
                 "last_commit": "2024-11-17T07:24:51Z",
                 "owner": "redcode-labs",
                 "repo": "easyWSL",
-                "stars": 577
+                "stars": 576
               }
             },
             {
@@ -1243,10 +1243,10 @@
             "archived": false,
             "id": 55626935,
             "language": "C++",
-            "last_commit": "2026-08-27T08:41:53Z",
+            "last_commit": "2026-08-27T17:57:53Z",
             "owner": "microsoft",
             "repo": "WSL",
-            "stars": 33536
+            "stars": 33539
           }
         },
         {
@@ -1312,7 +1312,7 @@
             "last_commit": "2026-06-21T09:36:55Z",
             "owner": "viatsko",
             "repo": "awesome-vscode",
-            "stars": 28972
+            "stars": 28975
           }
         },
         {
@@ -1357,7 +1357,7 @@
             "last_commit": "2023-02-04T17:02:53Z",
             "owner": "inputsh",
             "repo": "awesome-linux",
-            "stars": 5124
+            "stars": 5125
           }
         },
         {
@@ -1380,7 +1380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:12:57.622Z",
+    "last_updated": "2026-08-27T19:09:40.721Z",
     "original_repository_info": {
       "archived": false,
       "id": 134102057,
