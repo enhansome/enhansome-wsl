@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-01T00:31:28Z",
                 "owner": "microsoft",
                 "repo": "WSL2-Linux-Kernel",
-                "stars": 10542
+                "stars": 10543
               }
             }
           ],
@@ -67,7 +67,7 @@
                 "last_commit": "2024-06-25T18:13:44Z",
                 "owner": "jlevy",
                 "repo": "the-art-of-command-line",
-                "stars": 162167
+                "stars": 162175
               }
             },
             {
@@ -239,7 +239,7 @@
             "last_commit": "2026-04-02T12:47:36Z",
             "owner": "yuk7",
             "repo": "ArchWSL",
-            "stars": 7397
+            "stars": 7398
           }
         },
         {
@@ -254,7 +254,7 @@
             "last_commit": "2026-08-23T09:38:39Z",
             "owner": "yuk7",
             "repo": "wsldl",
-            "stars": 1947
+            "stars": 1948
           }
         },
         {
@@ -299,7 +299,7 @@
             "last_commit": "2026-03-25T04:22:03Z",
             "owner": "yuk7",
             "repo": "AlpineWSL",
-            "stars": 658
+            "stars": 659
           }
         },
         {
@@ -419,7 +419,7 @@
             "last_commit": "2023-09-03T17:09:22Z",
             "owner": "VPraharsha03",
             "repo": "DevuanWSL",
-            "stars": 22
+            "stars": 23
           }
         },
         {
@@ -454,10 +454,10 @@
                 "archived": false,
                 "id": 100060912,
                 "language": "C++",
-                "last_commit": "2026-08-26T03:04:00Z",
+                "last_commit": "2026-08-27T03:04:05Z",
                 "owner": "microsoft",
                 "repo": "terminal",
-                "stars": 104694
+                "stars": 104700
               }
             },
             {
@@ -472,7 +472,7 @@
                 "last_commit": "2026-08-26T04:17:18Z",
                 "owner": "alacritty",
                 "repo": "alacritty",
-                "stars": 65513
+                "stars": 65527
               }
             },
             {
@@ -487,7 +487,7 @@
                 "last_commit": "2025-12-22T12:00:12Z",
                 "owner": "felixse",
                 "repo": "FluentTerminal",
-                "stars": 9607
+                "stars": 9606
               }
             },
             {
@@ -532,7 +532,7 @@
                 "last_commit": "2026-06-05T17:32:51Z",
                 "owner": "sedwards2009",
                 "repo": "extraterm",
-                "stars": 2822
+                "stars": 2823
               }
             },
             {
@@ -569,7 +569,7 @@
                 "last_commit": "2022-02-02T10:39:24Z",
                 "owner": "DDoSolitary",
                 "repo": "LxRunOffline",
-                "stars": 4269
+                "stars": 4270
               }
             },
             {
@@ -581,7 +581,7 @@
                 "archived": false,
                 "id": 407645904,
                 "language": "Dart",
-                "last_commit": "2026-08-25T22:09:01Z",
+                "last_commit": "2026-08-27T01:19:07Z",
                 "owner": "bostrot",
                 "repo": "wsl2-distro-manager",
                 "stars": 3965
@@ -599,7 +599,7 @@
                 "last_commit": "2026-08-25T00:14:52Z",
                 "owner": "owu",
                 "repo": "wsl-dashboard",
-                "stars": 3603
+                "stars": 3615
               }
             },
             {
@@ -681,7 +681,7 @@
                 "last_commit": "2026-08-25T03:29:43Z",
                 "owner": "sakai135",
                 "repo": "wsl-vpnkit",
-                "stars": 2952
+                "stars": 2951
               }
             },
             {
@@ -711,7 +711,7 @@
                 "last_commit": "2026-05-21T12:14:09Z",
                 "owner": "andy-5",
                 "repo": "wslgit",
-                "stars": 1242
+                "stars": 1243
               }
             },
             {
@@ -896,6 +896,21 @@
             },
             {
               "node_type": "item",
+              "title": "wip",
+              "description": "A native CLI that brings dip-like development workflows to Microsoft WSL Containers (WSLC).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1318161943,
+                "language": "C#",
+                "last_commit": "2026-08-22T01:59:09Z",
+                "owner": "slidict",
+                "repo": "wip",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
               "title": "community.wsl.sdk",
               "description": "SDK for Windows Subsystem for Linux for .NET 5, 6 and Standard 2.1",
               "children": [],
@@ -992,10 +1007,10 @@
                 "archived": false,
                 "id": 164140756,
                 "language": "C#",
-                "last_commit": "2026-08-26T01:58:59Z",
+                "last_commit": "2026-08-27T04:25:14Z",
                 "owner": "files-community",
                 "repo": "Files",
-                "stars": 44767
+                "stars": 44786
               }
             },
             {
@@ -1010,7 +1025,7 @@
                 "last_commit": "2025-01-07T22:22:48Z",
                 "owner": "microsoft",
                 "repo": "WSL-DistroLauncher",
-                "stars": 1732
+                "stars": 1733
               }
             },
             {
@@ -1025,7 +1040,7 @@
                 "last_commit": "2021-09-29T07:33:42Z",
                 "owner": "neilpa",
                 "repo": "cmd-colors-solarized",
-                "stars": 1111
+                "stars": 1110
               }
             },
             {
@@ -1228,10 +1243,10 @@
             "archived": false,
             "id": 55626935,
             "language": "C++",
-            "last_commit": "2026-08-26T08:06:42Z",
+            "last_commit": "2026-08-27T08:41:53Z",
             "owner": "microsoft",
             "repo": "WSL",
-            "stars": 33523
+            "stars": 33536
           }
         },
         {
@@ -1282,7 +1297,7 @@
             "last_commit": "2025-08-28T14:40:51Z",
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37510
+            "stars": 37514
           }
         },
         {
@@ -1312,7 +1327,7 @@
             "last_commit": "2026-05-21T14:27:17Z",
             "owner": "awesome-lists",
             "repo": "awesome-bash",
-            "stars": 10046
+            "stars": 10049
           }
         },
         {
@@ -1327,7 +1342,7 @@
             "last_commit": "2025-04-14T06:25:33Z",
             "owner": "janikvonrotz",
             "repo": "awesome-powershell",
-            "stars": 5407
+            "stars": 5408
           }
         },
         {
@@ -1357,7 +1372,7 @@
             "last_commit": "2026-07-29T20:00:04Z",
             "owner": "sirredbeard",
             "repo": "awesome-unix",
-            "stars": 1770
+            "stars": 1771
           }
         }
       ],
@@ -1365,10 +1380,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:08:05.635Z",
-    "original_repository": "sirredbeard/awesome-wsl",
-    "original_repository_id": 134102057,
-    "original_repository_sha": "5d49b0947754828f7397a9d9df1da237e823d5c3",
+    "last_updated": "2026-08-27T12:12:57.622Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 134102057,
+      "language": null,
+      "last_commit": "2026-08-26T11:38:57Z",
+      "owner": "sirredbeard",
+      "repo": "awesome-wsl",
+      "stars": 6536
+    },
+    "original_repository_sha": "10830631f15a173805e1d606daf416a2d86dd2a5",
     "enhanced_repository": "enhansome/enhansome-wsl",
     "enhanced_repository_description": null,
     "title": "Awesome WSL - Windows Subsystem for Linux with stars"
