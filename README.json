@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-01T00:31:28Z",
                 "owner": "microsoft",
                 "repo": "WSL2-Linux-Kernel",
-                "stars": 10543
-              }
+                "stars": 10547
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             }
           ],
           "description": "WSL2 was announced at Microsoft Build 2019. WSL2 features a Linux kernel running inside Windows and is built on the core technology of Hyper-V to provide better Linux application support and improved file system performance. Transitioning to WSL2 is seamless. WSL2 is set by default since Windows 11.",
@@ -40,7 +41,8 @@
                 "owner": "michaeltreat",
                 "repo": "Windows-Subsystem-For-Linux-Setup-Guide",
                 "stars": 626
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             }
           ],
           "description": null,
@@ -67,8 +69,9 @@
                 "last_commit": "2024-06-25T18:13:44Z",
                 "owner": "jlevy",
                 "repo": "the-art-of-command-line",
-                "stars": 162179
-              }
+                "stars": 162176
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -82,8 +85,9 @@
                 "last_commit": "2026-03-04T11:04:17Z",
                 "owner": "herrbischoff",
                 "repo": "awesome-command-line-apps",
-                "stars": 4210
-              }
+                "stars": 4211
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             }
           ],
           "description": null,
@@ -105,7 +109,8 @@
                 "owner": "hsab",
                 "repo": "WSL-config",
                 "stars": 167
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -120,7 +125,8 @@
                 "owner": "seapagan",
                 "repo": "ubuntu-win-bootstrap",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             }
           ],
           "description": "Every developer has a unique workflow. Windows and WSL enable developers to carefully customize their setup for their unique workflow. The following are different developers' approaches to creating their development environments using WSL and instructions on how to do the same:\nTo learn more about programming generally, visit curated-programming-resources.\nMicrosoft makes free development tools available, publishes programming guides through MSDN, and offers courses through edX and Microsoft Virtual Academy.",
@@ -142,7 +148,8 @@
                 "owner": "NathanCastle",
                 "repo": "BootShellCredentialProvider",
                 "stars": 784
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             }
           ],
           "description": null,
@@ -170,7 +177,8 @@
                 "owner": "WhitewaterFoundry",
                 "repo": "Fedora-Remix-for-WSL",
                 "stars": 811
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             }
           ],
           "description": "Fedora Remix for WSL is a Linux distribution derived from the Fedora distribution.",
@@ -192,7 +200,8 @@
                 "owner": "WhitewaterFoundry",
                 "repo": "Pengwin",
                 "stars": 1519
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             }
           ],
           "description": "Pengwin (formerly WLinux) is a Linux distribution based on Debian that is designed for WSL users by independent open source developers at Whitewater Foundry.",
@@ -213,8 +222,9 @@
                 "last_commit": "2026-08-17T20:14:11Z",
                 "owner": "WhitewaterFoundry",
                 "repo": "Pengwin-Enterprise",
-                "stars": 69
-              }
+                "stars": 70
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             }
           ],
           "description": "Pengwin Enterprise is a custom WSL solution available to enterprise customers from Whitewater Foundry. Pengwin Enterprise supports Red Hat Enterprise Linux, CentOS, and Scientific Linux. A demo of Pengwin Enterprise built with Scientific Linux is available on the Microsoft Store.",
@@ -239,8 +249,9 @@
             "last_commit": "2026-04-02T12:47:36Z",
             "owner": "yuk7",
             "repo": "ArchWSL",
-            "stars": 7397
-          }
+            "stars": 7395
+          },
+          "first_seen": "2026-08-28T20:15:58.214Z"
         },
         {
           "node_type": "item",
@@ -255,7 +266,8 @@
             "owner": "yuk7",
             "repo": "wsldl",
             "stars": 1948
-          }
+          },
+          "first_seen": "2026-08-28T20:15:58.214Z"
         },
         {
           "node_type": "item",
@@ -270,7 +282,8 @@
             "owner": "RoliSoft",
             "repo": "WSL-Distribution-Switcher",
             "stars": 1665
-          }
+          },
+          "first_seen": "2026-08-28T20:15:58.214Z"
         },
         {
           "node_type": "item",
@@ -285,7 +298,8 @@
             "owner": "wsldl-pg",
             "repo": "CentWSL",
             "stars": 1139
-          }
+          },
+          "first_seen": "2026-08-28T20:15:58.214Z"
         },
         {
           "node_type": "item",
@@ -300,7 +314,8 @@
             "owner": "yuk7",
             "repo": "AlpineWSL",
             "stars": 659
-          }
+          },
+          "first_seen": "2026-08-28T20:15:58.214Z"
         },
         {
           "node_type": "item",
@@ -315,7 +330,8 @@
             "owner": "Biswa96",
             "repo": "WSLInstall",
             "stars": 254
-          }
+          },
+          "first_seen": "2026-08-28T20:15:58.214Z"
         },
         {
           "node_type": "item",
@@ -330,7 +346,8 @@
             "owner": "yosukes-dev",
             "repo": "FedoraWSL",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T20:15:58.214Z"
         },
         {
           "node_type": "item",
@@ -345,7 +362,8 @@
             "owner": "yosukes-dev",
             "repo": "RHWSL",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T20:15:58.214Z"
         },
         {
           "node_type": "item",
@@ -360,7 +378,8 @@
             "owner": "yosukes-dev",
             "repo": "AmazonWSL",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T20:15:58.214Z"
         },
         {
           "node_type": "item",
@@ -375,7 +394,8 @@
             "owner": "MahStudio",
             "repo": "WSLackware",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T20:15:58.214Z"
         },
         {
           "node_type": "item",
@@ -390,7 +410,8 @@
             "owner": "elrzn",
             "repo": "acme-wsl",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T20:15:58.214Z"
         },
         {
           "node_type": "item",
@@ -405,7 +426,8 @@
             "owner": "imaandrew",
             "repo": "GentooWSL",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T20:15:58.214Z"
         },
         {
           "node_type": "item",
@@ -420,7 +442,8 @@
             "owner": "VPraharsha03",
             "repo": "DevuanWSL",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T20:15:58.214Z"
         },
         {
           "node_type": "item",
@@ -435,7 +458,8 @@
             "owner": "sileshn",
             "repo": "ManjaroWSL2",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:15:58.214Z"
         }
       ],
       "title": "Unofficial Distributions"
@@ -454,11 +478,12 @@
                 "archived": false,
                 "id": 100060912,
                 "language": "C++",
-                "last_commit": "2026-08-27T18:08:39Z",
+                "last_commit": "2026-08-28T19:41:14Z",
                 "owner": "microsoft",
                 "repo": "terminal",
-                "stars": 104705
-              }
+                "stars": 104721
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -472,8 +497,9 @@
                 "last_commit": "2026-08-26T04:17:18Z",
                 "owner": "alacritty",
                 "repo": "alacritty",
-                "stars": 65534
-              }
+                "stars": 65543
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -488,7 +514,8 @@
                 "owner": "felixse",
                 "repo": "FluentTerminal",
                 "stars": 9606
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -503,7 +530,8 @@
                 "owner": "mintty",
                 "repo": "wsltty",
                 "stars": 3194
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -518,7 +546,8 @@
                 "owner": "mskyaxl",
                 "repo": "wsl-terminal",
                 "stars": 3123
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -533,7 +562,8 @@
                 "owner": "sedwards2009",
                 "repo": "extraterm",
                 "stars": 2823
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -544,11 +574,12 @@
                 "archived": false,
                 "id": 1226151883,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T13:11:36Z",
+                "last_commit": "2026-08-28T18:10:40Z",
                 "owner": "ryantsai",
                 "repo": "KKTerm",
                 "stars": 447
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             }
           ],
           "description": null,
@@ -570,7 +601,8 @@
                 "owner": "DDoSolitary",
                 "repo": "LxRunOffline",
                 "stars": 4269
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -581,11 +613,12 @@
                 "archived": false,
                 "id": 407645904,
                 "language": "Dart",
-                "last_commit": "2026-08-27T01:19:07Z",
+                "last_commit": "2026-08-28T19:39:54Z",
                 "owner": "bostrot",
                 "repo": "wsl2-distro-manager",
-                "stars": 3965
-              }
+                "stars": 3966
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -599,8 +632,9 @@
                 "last_commit": "2026-08-25T00:14:52Z",
                 "owner": "owu",
                 "repo": "wsl-dashboard",
-                "stars": 3619
-              }
+                "stars": 3634
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -615,7 +649,8 @@
                 "owner": "octasoft-ltd",
                 "repo": "wsl-ui",
                 "stars": 365
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -630,7 +665,8 @@
                 "owner": "emeric-martineau",
                 "repo": "wsl-gui-tool",
                 "stars": 108
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -645,7 +681,8 @@
                 "owner": "Wintus",
                 "repo": "Ansible-WSL",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             }
           ],
           "description": null,
@@ -667,7 +704,8 @@
                 "owner": "wslutilities",
                 "repo": "wslu",
                 "stars": 3749
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -682,7 +720,8 @@
                 "owner": "sakai135",
                 "repo": "wsl-vpnkit",
                 "stars": 2950
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -697,7 +736,8 @@
                 "owner": "nullpo-head",
                 "repo": "WSL-Hello-sudo",
                 "stars": 1315
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -712,7 +752,8 @@
                 "owner": "andy-5",
                 "repo": "wslgit",
                 "stars": 1243
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -727,7 +768,8 @@
                 "owner": "4U6U57",
                 "repo": "wsl-open",
                 "stars": 551
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -742,7 +784,8 @@
                 "owner": "sindresorhus",
                 "repo": "is-wsl",
                 "stars": 198
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -757,7 +800,8 @@
                 "owner": "cpbotha",
                 "repo": "xdg-open-wsl",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -772,7 +816,8 @@
                 "owner": "watzon",
                 "repo": "wsl-proxy",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -787,7 +832,8 @@
                 "owner": "laurent22",
                 "repo": "wslpath",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -802,7 +848,8 @@
                 "owner": "Opticos",
                 "repo": "OpenInWSL-Source",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -817,7 +864,8 @@
                 "owner": "diablodale",
                 "repo": "pinentry-wsl-ps1",
                 "stars": 108
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -832,7 +880,8 @@
                 "owner": "wslutilities",
                 "repo": "wslpy",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -847,7 +896,8 @@
                 "owner": "Konfekt",
                 "repo": "win-bash-xclip-xsel",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -862,7 +912,8 @@
                 "owner": "int128",
                 "repo": "wslexec",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -877,7 +928,8 @@
                 "owner": "Konfekt",
                 "repo": "win-bash-gui-bins",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -892,7 +944,8 @@
                 "owner": "Konfekt",
                 "repo": "vim-wsl-copy-paste",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -903,11 +956,12 @@
                 "archived": false,
                 "id": 1318161943,
                 "language": "C#",
-                "last_commit": "2026-08-22T01:59:09Z",
+                "last_commit": "2026-08-28T16:02:18Z",
                 "owner": "slidict",
                 "repo": "wip",
-                "stars": 18
-              }
+                "stars": 19
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -922,7 +976,8 @@
                 "owner": "Gitii",
                 "repo": "community.wsl.sdk",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -937,7 +992,8 @@
                 "owner": "celloza",
                 "repo": "porthole",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -952,7 +1008,8 @@
                 "owner": "Sibikrish3000",
                 "repo": "gowinbridge",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -967,7 +1024,8 @@
                 "owner": "jbwfu",
                 "repo": "wsl-open",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             }
           ],
           "description": null,
@@ -989,7 +1047,8 @@
                 "owner": "congmnguyen",
                 "repo": "claude-code-wsl2-setup",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             }
           ],
           "description": null,
@@ -1007,11 +1066,12 @@
                 "archived": false,
                 "id": 164140756,
                 "language": "C#",
-                "last_commit": "2026-08-27T16:27:51Z",
+                "last_commit": "2026-08-28T17:06:22Z",
                 "owner": "files-community",
                 "repo": "Files",
-                "stars": 44787
-              }
+                "stars": 44806
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -1026,7 +1086,8 @@
                 "owner": "microsoft",
                 "repo": "WSL-DistroLauncher",
                 "stars": 1733
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -1041,7 +1102,8 @@
                 "owner": "neilpa",
                 "repo": "cmd-colors-solarized",
                 "stars": 1110
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -1056,7 +1118,8 @@
                 "owner": "NathanCastle",
                 "repo": "BootShellCredentialProvider",
                 "stars": 784
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -1071,7 +1134,8 @@
                 "owner": "buptczq",
                 "repo": "WinCryptSSHAgent",
                 "stars": 586
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -1086,7 +1150,8 @@
                 "owner": "redcode-labs",
                 "repo": "easyWSL",
                 "stars": 576
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -1101,7 +1166,8 @@
                 "owner": "BlackReloaded",
                 "repo": "wsl2-ssh-pageant",
                 "stars": 371
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -1116,7 +1182,8 @@
                 "owner": "rprichard",
                 "repo": "wslbridge",
                 "stars": 352
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -1131,7 +1198,8 @@
                 "owner": "Xyene",
                 "repo": "wsl-dotfiles",
                 "stars": 270
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -1146,7 +1214,8 @@
                 "owner": "Biswa96",
                 "repo": "WSLInstall",
                 "stars": 254
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -1161,7 +1230,8 @@
                 "owner": "vuori",
                 "repo": "weasel-pageant",
                 "stars": 247
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -1176,7 +1246,8 @@
                 "owner": "Vampire",
                 "repo": "setup-wsl",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -1191,7 +1262,8 @@
                 "owner": "Biswa96",
                 "repo": "WslReverse",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -1206,7 +1278,8 @@
                 "owner": "therealkenc",
                 "repo": "EnumWSL",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             },
             {
               "node_type": "item",
@@ -1221,7 +1294,8 @@
                 "owner": "ariel42",
                 "repo": "teamviewer-on-wsl",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:15:58.214Z"
             }
           ],
           "description": null,
@@ -1243,11 +1317,12 @@
             "archived": false,
             "id": 55626935,
             "language": "C++",
-            "last_commit": "2026-08-27T17:57:53Z",
+            "last_commit": "2026-08-28T20:08:53Z",
             "owner": "microsoft",
             "repo": "WSL",
-            "stars": 33539
-          }
+            "stars": 33548
+          },
+          "first_seen": "2026-08-28T20:15:58.214Z"
         },
         {
           "node_type": "item",
@@ -1262,7 +1337,8 @@
             "owner": "ehmicky",
             "repo": "cross-platform-node-guide",
             "stars": 1421
-          }
+          },
+          "first_seen": "2026-08-28T20:15:58.214Z"
         },
         {
           "node_type": "item",
@@ -1277,7 +1353,8 @@
             "owner": "emmatyping",
             "repo": "WSL-Programs",
             "stars": 1134
-          }
+          },
+          "first_seen": "2026-08-28T20:15:58.214Z"
         }
       ],
       "title": "Additional Resources"
@@ -1297,8 +1374,9 @@
             "last_commit": "2025-08-28T14:40:51Z",
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37514
-          }
+            "stars": 37523
+          },
+          "first_seen": "2026-08-28T20:15:58.214Z"
         },
         {
           "node_type": "item",
@@ -1312,8 +1390,9 @@
             "last_commit": "2026-06-21T09:36:55Z",
             "owner": "viatsko",
             "repo": "awesome-vscode",
-            "stars": 28975
-          }
+            "stars": 28981
+          },
+          "first_seen": "2026-08-28T20:15:58.214Z"
         },
         {
           "node_type": "item",
@@ -1327,8 +1406,9 @@
             "last_commit": "2026-05-21T14:27:17Z",
             "owner": "awesome-lists",
             "repo": "awesome-bash",
-            "stars": 10049
-          }
+            "stars": 10053
+          },
+          "first_seen": "2026-08-28T20:15:58.214Z"
         },
         {
           "node_type": "item",
@@ -1343,7 +1423,8 @@
             "owner": "janikvonrotz",
             "repo": "awesome-powershell",
             "stars": 5408
-          }
+          },
+          "first_seen": "2026-08-28T20:15:58.214Z"
         },
         {
           "node_type": "item",
@@ -1357,8 +1438,9 @@
             "last_commit": "2023-02-04T17:02:53Z",
             "owner": "inputsh",
             "repo": "awesome-linux",
-            "stars": 5125
-          }
+            "stars": 5127
+          },
+          "first_seen": "2026-08-28T20:15:58.214Z"
         },
         {
           "node_type": "item",
@@ -1372,15 +1454,16 @@
             "last_commit": "2026-07-29T20:00:04Z",
             "owner": "sirredbeard",
             "repo": "awesome-unix",
-            "stars": 1771
-          }
+            "stars": 1772
+          },
+          "first_seen": "2026-08-28T20:15:58.214Z"
         }
       ],
       "title": "More Awesome"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:09:40.721Z",
+    "last_updated": "2026-08-28T20:15:58.214Z",
     "original_repository_info": {
       "archived": false,
       "id": 134102057,
@@ -1388,7 +1471,7 @@
       "last_commit": "2026-08-26T11:38:57Z",
       "owner": "sirredbeard",
       "repo": "awesome-wsl",
-      "stars": 6536
+      "stars": 6538
     },
     "original_repository_sha": "10830631f15a173805e1d606daf416a2d86dd2a5",
     "enhanced_repository": "enhansome/enhansome-wsl",
