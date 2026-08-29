@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)",
+                "homepage": null,
                 "id": 187922067,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-01T00:31:28Z",
+                "open_issues": 134,
                 "owner": "microsoft",
                 "repo": "WSL2-Linux-Kernel",
-                "stars": 10547
+                "stars": 10548,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             }
@@ -35,12 +40,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An in-depth Guide for getting started with the Windows Subsystem for Linux!",
+                "homepage": null,
                 "id": 132554890,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-01-14T23:06:58Z",
+                "open_issues": 0,
                 "owner": "michaeltreat",
                 "repo": "Windows-Subsystem-For-Linux-Setup-Guide",
-                "stars": 626
+                "stars": 626,
+                "topics": [
+                  "linux",
+                  "linux-setup",
+                  "microsoft",
+                  "tutorial",
+                  "ubuntu",
+                  "windows-subsystem",
+                  "wsl"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             }
@@ -64,12 +82,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Master the command line, in one page",
+                "homepage": null,
                 "id": 35955666,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-06-25T18:13:44Z",
+                "open_issues": 257,
                 "owner": "jlevy",
                 "repo": "the-art-of-command-line",
-                "stars": 162176
+                "stars": 162179,
+                "topics": [
+                  "bash",
+                  "documentation",
+                  "linux",
+                  "macos",
+                  "unix",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -80,12 +110,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":shell: Use your terminal shell to do awesome things.",
+                "homepage": null,
                 "id": 45694629,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-03-04T11:04:17Z",
+                "open_issues": 0,
                 "owner": "herrbischoff",
                 "repo": "awesome-command-line-apps",
-                "stars": 4211
+                "stars": 4211,
+                "topics": [
+                  "apps",
+                  "awesome",
+                  "awesome-list",
+                  "list",
+                  "shell",
+                  "software",
+                  "unix"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             }
@@ -103,12 +146,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CS 4400 - Step by step guide for using WSL and Vim as a development environment",
+                "homepage": null,
                 "id": 91172982,
                 "language": "Vim script",
+                "license": null,
                 "last_commit": "2017-05-13T14:21:27Z",
+                "open_issues": 1,
                 "owner": "hsab",
                 "repo": "WSL-config",
-                "stars": 167
+                "stars": 167,
+                "topics": [
+                  "bash-on-windows",
+                  "vim",
+                  "wsl",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -119,12 +172,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DEPRECIATED! Use \"linux-comfy-chair\" instead. A very simple bootstrap script to install some development tools to the Windows 10 Ubuntu Bash system - Ruby, Perl, Python, Node, Sublime Text and more!",
+                "homepage": null,
                 "id": 95033982,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2021-07-11T13:06:54Z",
+                "open_issues": 1,
                 "owner": "seapagan",
                 "repo": "ubuntu-win-bootstrap",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "automated-deployment",
+                  "bootstrap-script",
+                  "nvm",
+                  "perlbrew",
+                  "pyenv",
+                  "rbenv",
+                  "ruby",
+                  "sublime",
+                  "wsl"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             }
@@ -142,12 +210,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.",
+                "homepage": null,
                 "id": 80856683,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-01-12T08:55:07Z",
+                "open_issues": 7,
                 "owner": "NathanCastle",
                 "repo": "BootShellCredentialProvider",
-                "stars": 784
+                "stars": 784,
+                "topics": [
+                  "desktop-environment",
+                  "windows",
+                  "windows-10",
+                  "windows-subsystem-linux"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             }
@@ -171,12 +249,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fedora Remix for Windows Subsystem for Linux.",
+                "homepage": null,
                 "id": 161186719,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-08T21:44:08Z",
+                "open_issues": 65,
                 "owner": "WhitewaterFoundry",
                 "repo": "Fedora-Remix-for-WSL",
-                "stars": 811
+                "stars": 811,
+                "topics": [
+                  "fedora",
+                  "hacktoberfest",
+                  "linux",
+                  "windows-10",
+                  "wsl"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             }
@@ -194,12 +283,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Linux distro optimized for WSL based on Debian.",
+                "homepage": null,
                 "id": 144638157,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-13T19:26:42Z",
+                "open_issues": 92,
                 "owner": "WhitewaterFoundry",
                 "repo": "Pengwin",
-                "stars": 1519
+                "stars": 1519,
+                "topics": [
+                  "debian",
+                  "hacktoberfest",
+                  "linux-distribution",
+                  "windows-10",
+                  "wsl",
+                  "wsl-debian"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             }
@@ -217,12 +318,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enterprise-compatible WSL distribution.",
+                "homepage": null,
                 "id": 158575618,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-17T20:14:11Z",
+                "open_issues": 7,
                 "owner": "WhitewaterFoundry",
                 "repo": "Pengwin-Enterprise",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "enterprise",
+                  "hacktoberfest",
+                  "linux",
+                  "windows-10",
+                  "wsl"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             }
@@ -244,12 +356,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ArchLinux based WSL Distribution. Supports multiple install.",
+            "homepage": "https://git.io/archwsl",
             "id": 113038033,
             "language": "Makefile",
+            "license": "MIT",
             "last_commit": "2026-04-02T12:47:36Z",
+            "open_issues": 64,
             "owner": "yuk7",
             "repo": "ArchWSL",
-            "stars": 7395
+            "stars": 7395,
+            "topics": [
+              "archlinux",
+              "uwp-apps",
+              "windows-10",
+              "windows-subsystem-linux",
+              "windows-terminal",
+              "wsl",
+              "wsldl"
+            ]
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
         },
@@ -260,12 +385,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)",
+            "homepage": "https://git.io/wsldl",
             "id": 107250913,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-23T09:38:39Z",
+            "open_issues": 6,
             "owner": "yuk7",
             "repo": "wsldl",
-            "stars": 1948
+            "stars": 1948,
+            "topics": [
+              "linux",
+              "windows-10",
+              "windows-11",
+              "windows-subsystem-linux",
+              "windows-terminal",
+              "wsl",
+              "wsldl"
+            ]
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
         },
@@ -276,12 +414,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scripts to replace the distribution behind Windows Subsystem for Linux with any other Linux distribution published on Docker Hub.",
+            "homepage": null,
             "id": 65901298,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-01-25T08:55:48Z",
+            "open_issues": 45,
             "owner": "RoliSoft",
             "repo": "WSL-Distribution-Switcher",
-            "stars": 1665
+            "stars": 1665,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
         },
@@ -292,12 +435,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[DISCONTINUED] CentOS based WSL distribution",
+            "homepage": null,
             "id": 175923613,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-12-16T11:00:22Z",
+            "open_issues": 12,
             "owner": "wsldl-pg",
             "repo": "CentWSL",
-            "stars": 1139
+            "stars": 1139,
+            "topics": [
+              "centos",
+              "windows-10",
+              "windows-subsystem-linux",
+              "wsl"
+            ]
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
         },
@@ -308,12 +461,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alpine Linux based WSL distribution. Supports multi-install. Lightest WSL distribution.",
+            "homepage": "https://git.io/alpwsl",
             "id": 123440177,
             "language": "Makefile",
+            "license": "MIT",
             "last_commit": "2026-03-25T04:22:03Z",
+            "open_issues": 5,
             "owner": "yuk7",
             "repo": "AlpineWSL",
-            "stars": 659
+            "stars": 659,
+            "topics": [
+              "alpine-linux",
+              "windows-10",
+              "windows-subsystem-linux",
+              "wsl",
+              "wsldl"
+            ]
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
         },
@@ -324,12 +488,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Install any GNU/Linux userspace in WSL",
+            "homepage": null,
             "id": 114983091,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2020-10-23T14:48:53Z",
+            "open_issues": 2,
             "owner": "Biswa96",
             "repo": "WSLInstall",
-            "stars": 254
+            "stars": 254,
+            "topics": [
+              "bash-on-windows",
+              "windows-10",
+              "windows-subsystem-for-linux",
+              "windows-subsystem-linux",
+              "wsl"
+            ]
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
         },
@@ -340,12 +515,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fedora as a WSL Instance. Supports multiple install.",
+            "homepage": null,
             "id": 242431155,
             "language": "Makefile",
+            "license": "NOASSERTION",
             "last_commit": "2023-01-24T07:57:02Z",
+            "open_issues": 0,
             "owner": "yosukes-dev",
             "repo": "FedoraWSL",
-            "stars": 140
+            "stars": 140,
+            "topics": [
+              "fedora",
+              "wsl"
+            ]
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
         },
@@ -356,12 +539,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Red hat UBI as a WSL Instance. Supports multiple install.",
+            "homepage": null,
             "id": 242995980,
             "language": "Makefile",
+            "license": "NOASSERTION",
             "last_commit": "2023-01-24T07:28:04Z",
+            "open_issues": 4,
             "owner": "yosukes-dev",
             "repo": "RHWSL",
-            "stars": 129
+            "stars": 129,
+            "topics": [
+              "redhat",
+              "redhat-enterprise-linux",
+              "wsl"
+            ]
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
         },
@@ -372,12 +564,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Amazon Linux as a WSL Instance. Supports multiple install.",
+            "homepage": null,
             "id": 242507355,
             "language": "Makefile",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-10T11:37:23Z",
+            "open_issues": 6,
             "owner": "yosukes-dev",
             "repo": "AmazonWSL",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "amazon-linux",
+              "wsl"
+            ]
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
         },
@@ -388,12 +588,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Slackware for WSL!",
+            "homepage": null,
             "id": 354962702,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2024-08-21T21:37:48Z",
+            "open_issues": 2,
             "owner": "MahStudio",
             "repo": "WSLackware",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "linux",
+              "slackware",
+              "slackware-wsl",
+              "windows-10",
+              "wsl",
+              "wsl2"
+            ]
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
         },
@@ -404,12 +616,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Install acme / plan9port on Windows Subsystem for Linux",
+            "homepage": null,
             "id": 84241948,
             "language": "Shell",
+            "license": null,
             "last_commit": "2019-05-18T17:26:22Z",
+            "open_issues": 1,
             "owner": "elrzn",
             "repo": "acme-wsl",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "acme",
+              "plan9port",
+              "windows-subsystem-linux"
+            ]
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
         },
@@ -420,12 +641,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "It's Gentoo, but for WSL.",
+            "homepage": null,
             "id": 226217049,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2024-12-04T05:00:06Z",
+            "open_issues": 2,
             "owner": "imaandrew",
             "repo": "GentooWSL",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "gentoo",
+              "wsl"
+            ]
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
         },
@@ -436,12 +665,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Devuan as a WSL instance. A Debian variant without the complexities and dependencies of systemd.",
+            "homepage": "https://git.io/devuanwsl",
             "id": 290968136,
             "language": "Makefile",
+            "license": "MIT",
             "last_commit": "2023-09-03T17:09:22Z",
+            "open_issues": 0,
             "owner": "VPraharsha03",
             "repo": "DevuanWSL",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "devuan",
+              "gnu",
+              "windows-10",
+              "windows-subsystem-linux",
+              "windows-terminal",
+              "wsl",
+              "wsl-debian"
+            ]
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
         },
@@ -452,12 +694,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manjaro for WSL2 using wsldl",
+            "homepage": null,
             "id": 567099183,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-01T00:40:32Z",
+            "open_issues": 0,
             "owner": "sileshn",
             "repo": "ManjaroWSL2",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "bash-on-windows",
+              "manjaro",
+              "manjaro-linux",
+              "windows-subsystem-for-linux",
+              "windows-subsystem-linux",
+              "wsl2",
+              "wsldl"
+            ]
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
         }
@@ -476,12 +731,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+                "homepage": null,
                 "id": 100060912,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:41:14Z",
+                "open_issues": 1763,
                 "owner": "microsoft",
                 "repo": "terminal",
-                "stars": 104721
+                "stars": 104722,
+                "topics": [
+                  "cmd",
+                  "command-line",
+                  "console",
+                  "contributions-welcome",
+                  "good-first-issue",
+                  "hacktoberfest",
+                  "terminal",
+                  "windows",
+                  "windows-console",
+                  "windows-terminal",
+                  "wsl"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -492,12 +764,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cross-platform, OpenGL terminal emulator.",
+                "homepage": "https://alacritty.org",
                 "id": 51980455,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T04:17:18Z",
+                "open_issues": 338,
                 "owner": "alacritty",
                 "repo": "alacritty",
-                "stars": 65543
+                "stars": 65544,
+                "topics": [
+                  "bsd",
+                  "gpu",
+                  "linux",
+                  "macos",
+                  "opengl",
+                  "rust",
+                  "terminal",
+                  "terminal-emulators",
+                  "vte",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -508,12 +796,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Terminal Emulator based on UWP and web technologies.",
+                "homepage": null,
                 "id": 118322286,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2025-12-22T12:00:12Z",
+                "open_issues": 240,
                 "owner": "felixse",
                 "repo": "FluentTerminal",
-                "stars": 9606
+                "stars": 9607,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -524,12 +817,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mintty as a terminal for Bash on Ubuntu on Windows / WSL",
+                "homepage": null,
                 "id": 67928223,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2025-09-02T17:17:02Z",
+                "open_issues": 26,
                 "owner": "mintty",
                 "repo": "wsltty",
-                "stars": 3194
+                "stars": 3194,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -540,12 +838,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terminal emulator for Windows Subsystem for Linux (WSL)",
+                "homepage": null,
                 "id": 66054270,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2020-09-11T05:43:11Z",
+                "open_issues": 29,
                 "owner": "mskyaxl",
                 "repo": "wsl-terminal",
-                "stars": 3123
+                "stars": 3123,
+                "topics": [
+                  "mintty",
+                  "terminal-emulator",
+                  "windows-subsystem-linux",
+                  "wsl"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -556,12 +864,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The swiss army chainsaw of terminal emulators",
+                "homepage": "https://extraterm.org",
                 "id": 53134541,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-05T17:32:51Z",
+                "open_issues": 134,
                 "owner": "sedwards2009",
                 "repo": "extraterm",
-                "stars": 2823
+                "stars": 2823,
+                "topics": [
+                  "javascript",
+                  "ssh-client",
+                  "terminal",
+                  "terminal-emulators",
+                  "typescript",
+                  "windows-subsystem-linux",
+                  "wsl"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -572,12 +893,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Super-tool for vibe coders & system admins — terminals, SSH, SFTP, RDP/VNC, dashboards, install helpers, and a built-in AI assistant.",
+                "homepage": "https://kkterm.ryantsai.com",
                 "id": 1226151883,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T18:10:40Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:53:21Z",
+                "open_issues": 4,
                 "owner": "ryantsai",
                 "repo": "KKTerm",
-                "stars": 447
+                "stars": 447,
+                "topics": [
+                  "ai-tools",
+                  "devops",
+                  "local-first",
+                  "mcp",
+                  "rdp",
+                  "react",
+                  "rust",
+                  "sftp",
+                  "ssh",
+                  "sysadmin",
+                  "tauri",
+                  "terminal",
+                  "typescript",
+                  "vnc",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             }
@@ -595,12 +937,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A full-featured utility for managing Windows Subsystem for Linux (WSL)",
+                "homepage": null,
                 "id": 78322616,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-02-02T10:39:24Z",
+                "open_issues": 22,
                 "owner": "DDoSolitary",
                 "repo": "LxRunOffline",
-                "stars": 4269
+                "stars": 4269,
+                "topics": [
+                  "bash",
+                  "bash-on-windows",
+                  "installer",
+                  "utility",
+                  "windows-subsystem-linux",
+                  "wsl"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -611,12 +965,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A GUI to quickly manage your WSL2 instances",
+                "homepage": "https://apps.microsoft.com/store/detail/wsl-manager/9NWS9K95NMJB",
                 "id": 407645904,
                 "language": "Dart",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T19:39:54Z",
+                "open_issues": 23,
                 "owner": "bostrot",
                 "repo": "wsl2-distro-manager",
-                "stars": 3966
+                "stars": 3967,
+                "topics": [
+                  "collaborate",
+                  "docker",
+                  "flutter",
+                  "github",
+                  "gui",
+                  "rootfs",
+                  "turnkey",
+                  "windows",
+                  "wsl",
+                  "wsl2"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -627,12 +997,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A GUI manager for WSL featuring a modern UI — a lightweight, low‑memory, high‑performance dashboard to manage WSL instances.  Install, list, start, stop, unregister, and configure your WSL distros​ from one place.",
+                "homepage": "https://www.wslui.com",
                 "id": 1136666361,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-25T00:14:52Z",
+                "open_issues": 8,
                 "owner": "owu",
                 "repo": "wsl-dashboard",
-                "stars": 3634
+                "stars": 3637,
+                "topics": [
+                  "auto-start",
+                  "dashboard",
+                  "gui",
+                  "http-proxy",
+                  "management",
+                  "port-forwarding",
+                  "rootfs",
+                  "rust",
+                  "slint",
+                  "usbipd",
+                  "wsl",
+                  "wsl2"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -643,12 +1031,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WSL2 Manager desktop application built with Tauri, Vite, React, and TypeScript",
+                "homepage": "https://wsl-ui.octasoft.co.uk",
                 "id": 1115986971,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-01T22:39:01Z",
+                "open_issues": 60,
                 "owner": "octasoft-ltd",
                 "repo": "wsl-ui",
-                "stars": 365
+                "stars": 367,
+                "topics": [
+                  "desktop-app",
+                  "react",
+                  "rust",
+                  "tauri",
+                  "typescript",
+                  "vite",
+                  "windows",
+                  "wsl",
+                  "wsl2"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -659,12 +1062,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Manage WSL (Windows Subsystem for Linux) with a graphical application",
+                "homepage": null,
                 "id": 381282662,
                 "language": "Pascal",
+                "license": "Apache-2.0",
                 "last_commit": "2023-02-05T15:48:55Z",
+                "open_issues": 1,
                 "owner": "emeric-martineau",
                 "repo": "wsl-gui-tool",
-                "stars": 108
+                "stars": 108,
+                "topics": [
+                  "gui",
+                  "linux",
+                  "windows",
+                  "wsl"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -675,12 +1088,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provisioning your Windows from inside of WSL by Ansible",
+                "homepage": null,
                 "id": 111235010,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2021-06-06T13:12:53Z",
+                "open_issues": 1,
                 "owner": "Wintus",
                 "repo": "Ansible-WSL",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "ansible",
+                  "chocolatey",
+                  "ubuntu",
+                  "wsl"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             }
@@ -698,12 +1121,34 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A collection of utilities for Windows Subsystem for Linux",
+                "homepage": "https://wslutiliti.es/wslu",
                 "id": 91957658,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2025-03-01T13:59:15Z",
+                "open_issues": 0,
                 "owner": "wslutilities",
                 "repo": "wslu",
-                "stars": 3749
+                "stars": 3749,
+                "topics": [
+                  "alpine-linux",
+                  "arch-linux",
+                  "bash",
+                  "bashonwindows",
+                  "centos",
+                  "debian",
+                  "fedora",
+                  "kali-linux",
+                  "linux",
+                  "opensuse",
+                  "pengwin",
+                  "shell",
+                  "sles",
+                  "ubuntu",
+                  "windows-subsystem-for-linux",
+                  "wsl"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -714,12 +1159,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provides network connectivity to WSL 2 when blocked by VPN",
+                "homepage": null,
                 "id": 297118626,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-25T03:29:43Z",
+                "open_issues": 2,
                 "owner": "sakai135",
                 "repo": "wsl-vpnkit",
-                "stars": 2950
+                "stars": 2950,
+                "topics": [
+                  "vpn",
+                  "vpnkit",
+                  "wsl",
+                  "wsl2"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -730,12 +1185,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Let's sudo by face recognition of Windows Hello on Windows Subsystem for Linux (WSL). It runs on both WSL 1 and WSL 2. This is a PAM module for Linux on WSL.",
+                "homepage": null,
                 "id": 103874990,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2023-05-21T13:53:55Z",
+                "open_issues": 33,
                 "owner": "nullpo-head",
                 "repo": "WSL-Hello-sudo",
-                "stars": 1315
+                "stars": 1315,
+                "topics": [
+                  "linux-pam",
+                  "wsl"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -746,12 +1209,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)",
+                "homepage": null,
                 "id": 98505208,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-05-21T12:14:09Z",
+                "open_issues": 27,
                 "owner": "andy-5",
                 "repo": "wslgit",
-                "stars": 1243
+                "stars": 1243,
+                "topics": [
+                  "bash-on-windows",
+                  "git",
+                  "rust",
+                  "visual-studio-code",
+                  "vscode",
+                  "windows-subsystem",
+                  "windows-subsystem-for-linux",
+                  "windows-subsystem-linux",
+                  "wsl",
+                  "wslgit"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -762,12 +1241,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open files with xdg-open on Bash for Windows in Windows applications. Read only mirror from GitLab, see link :point_right:",
+                "homepage": "http://gitlab.com/4U6U57/wsl-open",
                 "id": 112230617,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2022-05-26T17:19:37Z",
+                "open_issues": 8,
                 "owner": "4U6U57",
                 "repo": "wsl-open",
-                "stars": 551
+                "stars": 551,
+                "topics": [
+                  "linux",
+                  "windows-subsystem",
+                  "wsl",
+                  "xdg-open"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -778,12 +1267,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Check if the process is running inside Windows Subsystem for Linux (Bash on Windows)",
+                "homepage": null,
                 "id": 88415331,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-15T08:45:05Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "is-wsl",
-                "stars": 198
+                "stars": 198,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -794,12 +1288,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "xdg-open replacement for WSL that opens files and links using Windows apps.",
+                "homepage": null,
                 "id": 247432138,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-10-10T08:42:24Z",
+                "open_issues": 6,
                 "owner": "cpbotha",
                 "repo": "xdg-open-wsl",
-                "stars": 169
+                "stars": 169,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -810,12 +1309,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WSL proxy files for editor/linux interop",
+                "homepage": null,
                 "id": 99454767,
                 "language": "Batchfile",
+                "license": "WTFPL",
                 "last_commit": "2022-01-24T21:39:16Z",
+                "open_issues": 4,
                 "owner": "watzon",
                 "repo": "wsl-proxy",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "atom",
+                  "linter",
+                  "linux",
+                  "php",
+                  "sublime-text",
+                  "sublime-text-3",
+                  "visual-studio-code",
+                  "windows",
+                  "windows-10",
+                  "wsl",
+                  "wsl-proxy"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -826,12 +1342,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "wslpath - Converts Unix and Windows format paths in WSL",
+                "homepage": null,
                 "id": 101276142,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2018-04-27T10:38:02Z",
+                "open_issues": 6,
                 "owner": "laurent22",
                 "repo": "wslpath",
-                "stars": 121
+                "stars": 121,
+                "topics": [
+                  "path",
+                  "php",
+                  "wsl"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -842,12 +1367,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The actual code for OpenInWSL. And some prebuilt releases. ",
+                "homepage": "https://opticos.github.io/openinwsl",
                 "id": 383264621,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-27T12:20:38Z",
+                "open_issues": 12,
                 "owner": "Opticos",
                 "repo": "OpenInWSL-Source",
-                "stars": 110
+                "stars": 110,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -858,12 +1388,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GUI for GPG within Windows WSL for passwords, pinentry, etc.",
+                "homepage": null,
                 "id": 121394755,
                 "language": "Shell",
+                "license": "MPL-2.0",
                 "last_commit": "2023-03-10T18:13:54Z",
+                "open_issues": 8,
                 "owner": "diablodale",
                 "repo": "pinentry-wsl-ps1",
-                "stars": 108
+                "stars": 108,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -874,12 +1409,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A python3 Library for WSL specific tasks ",
+                "homepage": "https://wslutiliti.es/wslpy",
                 "id": 145207154,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-05-02T06:59:49Z",
+                "open_issues": 0,
                 "owner": "wslutilities",
                 "repo": "wslpy",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "python",
+                  "python3",
+                  "python3-library",
+                  "windows",
+                  "windows-subsystem-for-linux",
+                  "wsl"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -890,12 +1437,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "make xclip and xsel in Git Bash or WSL read and write to the Microsoft Windows clipboard",
+                "homepage": null,
                 "id": 260011530,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2022-11-02T13:27:54Z",
+                "open_issues": 0,
                 "owner": "Konfekt",
                 "repo": "win-bash-xclip-xsel",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -906,12 +1458,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A wrapper to run Linux command inside WSL (Windows Subsystem for Linux) from native apps",
+                "homepage": null,
                 "id": 113961094,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2020-07-04T12:44:56Z",
+                "open_issues": 2,
                 "owner": "int128",
                 "repo": "wslexec",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "bash-on-windows",
+                  "windows-subsystem-linux"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -922,12 +1482,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "start common GUI applications under Git BASH or WSL just like under Linux",
+                "homepage": null,
                 "id": 230593677,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2022-05-20T09:05:36Z",
+                "open_issues": 0,
                 "owner": "Konfekt",
                 "repo": "win-bash-gui-bins",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -938,12 +1503,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "mappings in Vim under WSL to write and read on the Microsoft Windows clipboard",
+                "homepage": null,
                 "id": 404599804,
                 "language": "Vim script",
+                "license": "NOASSERTION",
                 "last_commit": "2021-12-15T18:31:13Z",
+                "open_issues": 0,
                 "owner": "Konfekt",
                 "repo": "vim-wsl-copy-paste",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -954,12 +1524,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wip is a native, standalone CLI for WSL Containers (WSLC), providing native-like interaction with containerized applications.",
+                "homepage": null,
                 "id": 1318161943,
                 "language": "C#",
-                "last_commit": "2026-08-28T16:02:18Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T04:00:41Z",
+                "open_issues": 0,
                 "owner": "slidict",
                 "repo": "wip",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -970,12 +1545,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SDK for Windows Subsystem for Linux for .NET 6 and .Net 8",
+                "homepage": null,
                 "id": 437300788,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-08-17T14:30:51Z",
+                "open_issues": 0,
                 "owner": "Gitii",
                 "repo": "community.wsl.sdk",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "c-sharp",
+                  "csharp",
+                  "dotnet",
+                  "wsl",
+                  "wsl2"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -986,12 +1572,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Porthole is a native Windows desktop dashboard for WSL Containers.",
+                "homepage": null,
                 "id": 1288511116,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-09T15:00:47Z",
+                "open_issues": 5,
                 "owner": "celloza",
                 "repo": "porthole",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "containers",
+                  "csharp",
+                  "docker-desktop-alternative",
+                  "dotnet",
+                  "winui3",
+                  "wsl",
+                  "wsl2",
+                  "wslc"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -1002,12 +1602,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Go library and CLI for executing Windows binaries from WSL",
+                "homepage": null,
                 "id": 1157433733,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-13T22:28:50Z",
+                "open_issues": 0,
                 "owner": "Sibikrish3000",
                 "repo": "gowinbridge",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "cli",
+                  "golang",
+                  "golang-library",
+                  "microsoft",
+                  "windows",
+                  "wsl",
+                  "wsl-terminal",
+                  "wsl2"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -1018,12 +1632,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Go utility for WSL to open files, directories, and URLs in their default Windows applications.",
+                "homepage": null,
                 "id": 1053866823,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-09-10T17:48:07Z",
+                "open_issues": 0,
                 "owner": "jbwfu",
                 "repo": "wsl-open",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "windows-subsystem",
+                  "windows-subsystem-for-linux",
+                  "windows-subsystem-linux",
+                  "wsl",
+                  "wsl2",
+                  "xdg-open"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             }
@@ -1041,12 +1667,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude Code WSL2 setup with image paste, notifications, LSP, context-saving hooks, and Codex delegation.",
+                "homepage": "https://github.com/congmnguyen/claude-code-wsl2-setup",
                 "id": 1161527482,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-22T06:32:22Z",
+                "open_issues": 1,
                 "owner": "congmnguyen",
                 "repo": "claude-code-wsl2-setup",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "agentic-coding",
+                  "anthropic",
+                  "claude",
+                  "claude-code",
+                  "cli",
+                  "codex",
+                  "codex-cli",
+                  "developer-tools",
+                  "dotfiles",
+                  "hooks",
+                  "lsp",
+                  "windows-terminal",
+                  "wsl",
+                  "wsl2"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             }
@@ -1064,12 +1710,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern file manager that helps users organize their files and folders.",
+                "homepage": "https://files.community",
                 "id": 164140756,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-28T17:06:22Z",
+                "open_issues": 463,
                 "owner": "files-community",
                 "repo": "Files",
-                "stars": 44806
+                "stars": 44807,
+                "topics": [
+                  "alternatives",
+                  "csharp",
+                  "customization",
+                  "developer-tools",
+                  "dotnet",
+                  "file-manager",
+                  "files",
+                  "fluent",
+                  "fluent-design",
+                  "git",
+                  "good-first-issue",
+                  "power-user",
+                  "productivity",
+                  "utilities",
+                  "winappsdk",
+                  "windows",
+                  "windows-10",
+                  "windows-11",
+                  "winui",
+                  "xaml"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -1080,12 +1752,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Sample/reference launcher app for WSL distro Microsoft Store packages.",
+                "homepage": null,
                 "id": 91485889,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-01-07T22:22:48Z",
+                "open_issues": 42,
                 "owner": "microsoft",
                 "repo": "WSL-DistroLauncher",
-                "stars": 1733
+                "stars": 1733,
+                "topics": [
+                  "uwp-apps",
+                  "wsl"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -1096,12 +1776,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Solarized color settings for Windows command prompt",
+                "homepage": null,
                 "id": 5774948,
                 "language": "PowerShell",
+                "license": null,
                 "last_commit": "2021-09-29T07:33:42Z",
+                "open_issues": 11,
                 "owner": "neilpa",
                 "repo": "cmd-colors-solarized",
-                "stars": 1110
+                "stars": 1110,
+                "topics": [
+                  "color-schemes",
+                  "powershell",
+                  "solarized-theme",
+                  "windows-registry"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -1112,12 +1802,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.",
+                "homepage": null,
                 "id": 80856683,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-01-12T08:55:07Z",
+                "open_issues": 7,
                 "owner": "NathanCastle",
                 "repo": "BootShellCredentialProvider",
-                "stars": 784
+                "stars": 784,
+                "topics": [
+                  "desktop-environment",
+                  "windows",
+                  "windows-10",
+                  "windows-subsystem-linux"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -1128,12 +1828,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Using a Yubikey for SSH Authentication on Windows Seamlessly",
+                "homepage": null,
                 "id": 187327715,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-06T02:25:03Z",
+                "open_issues": 41,
                 "owner": "buptczq",
                 "repo": "WinCryptSSHAgent",
-                "stars": 586
+                "stars": 586,
+                "topics": [
+                  "smartcard",
+                  "ssh-agent",
+                  "ssh-certificates",
+                  "windows",
+                  "yubikey"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -1144,12 +1855,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create WSL distros based on Docker Images.",
+                "homepage": null,
                 "id": 278924863,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2024-11-17T07:24:51Z",
+                "open_issues": 15,
                 "owner": "redcode-labs",
                 "repo": "easyWSL",
-                "stars": 576
+                "stars": 576,
+                "topics": [
+                  "custom-wsl-distro",
+                  "docker",
+                  "docker-container",
+                  "powershell",
+                  "windows",
+                  "winui",
+                  "wsl",
+                  "wsl-distro",
+                  "wsl2"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -1160,12 +1886,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "bridge between windows pageant and wsl2",
+                "homepage": null,
                 "id": 231393429,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2022-07-22T13:21:44Z",
+                "open_issues": 12,
                 "owner": "BlackReloaded",
                 "repo": "wsl2-ssh-pageant",
-                "stars": 371
+                "stars": 371,
+                "topics": [
+                  "gpg",
+                  "hacktoberfest",
+                  "ssh",
+                  "wsl2"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -1176,12 +1912,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bridge from Cygwin to WSL pty/pipe I/O",
+                "homepage": null,
                 "id": 65608343,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2020-09-16T16:32:40Z",
+                "open_issues": 31,
                 "owner": "rprichard",
                 "repo": "wslbridge",
-                "stars": 352
+                "stars": 352,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -1192,12 +1933,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My dotfiles for running an i3-based environment within the Windows Subsystem for Linux (WSL).",
+                "homepage": null,
                 "id": 81049192,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2020-02-12T01:46:33Z",
+                "open_issues": 0,
                 "owner": "Xyene",
                 "repo": "wsl-dotfiles",
-                "stars": 270
+                "stars": 270,
+                "topics": [
+                  "dotfiles",
+                  "i3",
+                  "windows",
+                  "windows-subsystem-linux",
+                  "wsl"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -1208,12 +1960,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Install any GNU/Linux userspace in WSL",
+                "homepage": null,
                 "id": 114983091,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2020-10-23T14:48:53Z",
+                "open_issues": 2,
                 "owner": "Biswa96",
                 "repo": "WSLInstall",
-                "stars": 254
+                "stars": 254,
+                "topics": [
+                  "bash-on-windows",
+                  "windows-10",
+                  "windows-subsystem-for-linux",
+                  "windows-subsystem-linux",
+                  "wsl"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -1224,12 +1987,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Deprecated: An ssh-agent compatible helper for interacting with Pageant from processes running on the Windows Subsystem for Linux.",
+                "homepage": null,
                 "id": 95376598,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2020-06-15T09:57:42Z",
+                "open_issues": 1,
                 "owner": "vuori",
                 "repo": "weasel-pageant",
-                "stars": 247
+                "stars": 247,
+                "topics": [
+                  "pageant",
+                  "putty",
+                  "ssh",
+                  "ssh-agent",
+                  "ssh-agent-forwarding",
+                  "windows-subsystem-linux",
+                  "wsl"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -1240,12 +2016,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A GitHub action to install and setup a Linux distribution for the Windows Subsystem for Linux (WSL)",
+                "homepage": null,
                 "id": 292721064,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-14T15:46:11Z",
+                "open_issues": 0,
                 "owner": "Vampire",
                 "repo": "setup-wsl",
-                "stars": 142
+                "stars": 142,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -1256,12 +2037,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Experiments with hidden COM interface and LxBus IPC mechanism in WSL",
+                "homepage": null,
                 "id": 138002523,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2022-08-29T08:34:38Z",
+                "open_issues": 0,
                 "owner": "Biswa96",
                 "repo": "WslReverse",
-                "stars": 88
+                "stars": 88,
+                "topics": [
+                  "bash-on-windows",
+                  "c",
+                  "reverse-engineering",
+                  "reversing",
+                  "undocumented",
+                  "windows",
+                  "windows-10",
+                  "windows-subsystem-for-linux",
+                  "windows-subsystem-linux",
+                  "wsl"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -1272,12 +2069,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enumerate installed WSL packages",
+                "homepage": null,
                 "id": 98076102,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2017-07-23T05:27:56Z",
+                "open_issues": 3,
                 "owner": "therealkenc",
                 "repo": "EnumWSL",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -1288,12 +2090,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run TeamViewer on a WSL2 Linux desktop, fully unattended -- two scripts set up the desktop and install TeamViewer end to end, including the fix for the WSL-specific bug behind TeamViewer's 'screen sharing is currently not possible' error.",
+                "homepage": null,
                 "id": 1309224128,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-07-29T22:00:16Z",
+                "open_issues": 0,
                 "owner": "ariel42",
                 "repo": "teamviewer-on-wsl",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "bash",
+                  "lightdm",
+                  "linux-desktop",
+                  "remote-access",
+                  "remote-desktop",
+                  "screen-sharing",
+                  "shell-script",
+                  "teamviewer",
+                  "ubuntu",
+                  "windows-subsystem-for-linux",
+                  "wsl",
+                  "wsl2",
+                  "x11",
+                  "xfce",
+                  "xorg"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             }
@@ -1315,12 +2138,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Windows Subsystem for Linux",
+            "homepage": "https://wsl.dev/",
             "id": 55626935,
             "language": "C++",
-            "last_commit": "2026-08-28T20:08:53Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:20:03Z",
+            "open_issues": 985,
             "owner": "microsoft",
             "repo": "WSL",
-            "stars": 33548
+            "stars": 33550,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
         },
@@ -1331,12 +2159,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📗 How to write cross-platform Node.js code",
+            "homepage": null,
             "id": 166806384,
             "language": "JavaScript",
+            "license": "CC-BY-4.0",
             "last_commit": "2025-05-25T23:03:22Z",
+            "open_issues": 0,
             "owner": "ehmicky",
             "repo": "cross-platform-node-guide",
-            "stars": 1421
+            "stars": 1421,
+            "topics": [
+              "api",
+              "cli",
+              "code-quality",
+              "cross-platform",
+              "documentation",
+              "encoding",
+              "es6",
+              "javascript",
+              "linux",
+              "macos",
+              "nodejs",
+              "operating-system",
+              "os",
+              "portability",
+              "security",
+              "server",
+              "shell",
+              "terminal",
+              "unix",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
         },
@@ -1347,12 +2201,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux",
+            "homepage": null,
             "id": 55735218,
             "language": "CSS",
+            "license": "CC0-1.0",
             "last_commit": "2023-12-17T04:48:07Z",
+            "open_issues": 6,
             "owner": "emmatyping",
             "repo": "WSL-Programs",
-            "stars": 1134
+            "stars": 1134,
+            "topics": [
+              "bash",
+              "community",
+              "documentation",
+              "ubuntu",
+              "windows",
+              "windows-10",
+              "windows-subsystem-linux",
+              "wsl"
+            ]
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
         }
@@ -1369,12 +2237,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.",
+            "homepage": null,
             "id": 21552971,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-08-28T14:40:51Z",
+            "open_issues": 185,
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37523
+            "stars": 37526,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bash",
+              "cli",
+              "fish",
+              "list",
+              "shell",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
         },
@@ -1385,12 +2267,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎨 A curated list of delightful VS Code packages and resources.",
+            "homepage": "https://viatsko.github.io/awesome-vscode/",
             "id": 51270739,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2026-06-21T09:36:55Z",
+            "open_issues": 54,
             "owner": "viatsko",
             "repo": "awesome-vscode",
-            "stars": 28981
+            "stars": 28982,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list",
+              "visual-studio",
+              "visual-studio-code",
+              "visual-studio-code-extension",
+              "visual-studio-code-theme",
+              "visualstudio",
+              "vscode",
+              "vscode-extension",
+              "vscode-theme"
+            ]
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
         },
@@ -1401,12 +2300,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of delightful Bash scripts and resources.",
+            "homepage": null,
             "id": 51288857,
             "language": "Shell",
+            "license": "CC0-1.0",
             "last_commit": "2026-05-21T14:27:17Z",
+            "open_issues": 9,
             "owner": "awesome-lists",
             "repo": "awesome-bash",
-            "stars": 10053
+            "stars": 10054,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bash"
+            ]
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
         },
@@ -1417,12 +2325,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This repository has been moved to https://codeberg.org/janikvonrotz/awesome-powershell. Please visit the new location for the latest updates.",
+            "homepage": null,
             "id": 36435966,
             "language": "PowerShell",
+            "license": "AGPL-3.0",
             "last_commit": "2025-04-14T06:25:33Z",
+            "open_issues": 14,
             "owner": "janikvonrotz",
             "repo": "awesome-powershell",
-            "stars": 5408
+            "stars": 5407,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "guides",
+              "linux-powershell",
+              "list",
+              "powershell",
+              "powershell-cmdlets",
+              "powershell-ise",
+              "tutorial",
+              "windows-powershell"
+            ]
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
         },
@@ -1433,12 +2357,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:",
+            "homepage": null,
             "id": 37814279,
             "language": null,
+            "license": "WTFPL",
             "last_commit": "2023-02-04T17:02:53Z",
+            "open_issues": 33,
             "owner": "inputsh",
             "repo": "awesome-linux",
-            "stars": 5127
+            "stars": 5127,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "desktop-environment",
+              "linux",
+              "linux-distribution",
+              "list",
+              "x-window-manager"
+            ]
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
         },
@@ -1449,12 +2386,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.",
+            "homepage": null,
             "id": 111368115,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-07-29T20:00:04Z",
+            "open_issues": 3,
             "owner": "sirredbeard",
             "repo": "awesome-unix",
-            "stars": 1772
+            "stars": 1773,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bsd",
+              "devuan",
+              "freebsd",
+              "illumos",
+              "kernel",
+              "linux",
+              "linux-distribution",
+              "macos",
+              "minix",
+              "netbsd",
+              "openbsd",
+              "plan9",
+              "posix",
+              "slackware",
+              "solaris",
+              "unix",
+              "unix-philosophy"
+            ]
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
         }
@@ -1463,15 +2425,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:15:58.214Z",
+    "last_updated": "2026-08-29T04:16:30.385Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome list dedicated to Windows Subsystem for Linux",
+      "homepage": null,
       "id": 134102057,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-08-26T11:38:57Z",
+      "open_issues": 8,
       "owner": "sirredbeard",
       "repo": "awesome-wsl",
-      "stars": 6538
+      "stars": 6540,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hacktoberfest-accepted",
+        "microsoft",
+        "windows-10",
+        "windows-subsystem",
+        "windows-subsystem-for-linux",
+        "windows-subsystem-linux",
+        "wsl"
+      ]
     },
     "original_repository_sha": "10830631f15a173805e1d606daf416a2d86dd2a5",
     "enhanced_repository": "enhansome/enhansome-wsl",
