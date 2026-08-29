@@ -91,7 +91,7 @@
                 "open_issues": 257,
                 "owner": "jlevy",
                 "repo": "the-art-of-command-line",
-                "stars": 162179,
+                "stars": 162185,
                 "topics": [
                   "bash",
                   "documentation",
@@ -737,7 +737,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-08-28T19:41:14Z",
-                "open_issues": 1763,
+                "open_issues": 1764,
                 "owner": "microsoft",
                 "repo": "terminal",
                 "stars": 104722,
@@ -773,7 +773,7 @@
                 "open_issues": 338,
                 "owner": "alacritty",
                 "repo": "alacritty",
-                "stars": 65544,
+                "stars": 65549,
                 "topics": [
                   "bsd",
                   "gpu",
@@ -805,7 +805,7 @@
                 "open_issues": 240,
                 "owner": "felixse",
                 "repo": "FluentTerminal",
-                "stars": 9607,
+                "stars": 9608,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
@@ -898,7 +898,7 @@
                 "id": 1226151883,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T03:53:21Z",
+                "last_commit": "2026-08-29T13:23:16Z",
                 "open_issues": 4,
                 "owner": "ryantsai",
                 "repo": "KKTerm",
@@ -1006,7 +1006,7 @@
                 "open_issues": 8,
                 "owner": "owu",
                 "repo": "wsl-dashboard",
-                "stars": 3637,
+                "stars": 3641,
                 "topics": [
                   "auto-start",
                   "dashboard",
@@ -1040,7 +1040,7 @@
                 "open_issues": 60,
                 "owner": "octasoft-ltd",
                 "repo": "wsl-ui",
-                "stars": 367,
+                "stars": 371,
                 "topics": [
                   "desktop-app",
                   "react",
@@ -1525,16 +1525,22 @@
               "repo_info": {
                 "archived": false,
                 "description": "Wip is a native, standalone CLI for WSL Containers (WSLC), providing native-like interaction with containerized applications.",
-                "homepage": null,
+                "homepage": "https://wslc-wip.slidict.com/",
                 "id": 1318161943,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-29T04:00:41Z",
-                "open_issues": 0,
+                "last_commit": "2026-08-29T13:37:06Z",
+                "open_issues": 6,
                 "owner": "slidict",
                 "repo": "wip",
                 "stars": 19,
-                "topics": []
+                "topics": [
+                  "containers",
+                  "developer-tools",
+                  "windows",
+                  "wsl-containers",
+                  "wsl2"
+                ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
             },
@@ -1716,10 +1722,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-08-28T17:06:22Z",
-                "open_issues": 463,
+                "open_issues": 465,
                 "owner": "files-community",
                 "repo": "Files",
-                "stars": 44807,
+                "stars": 44816,
                 "topics": [
                   "alternatives",
                   "csharp",
@@ -2143,11 +2149,11 @@
             "id": 55626935,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-08-29T00:20:03Z",
-            "open_issues": 985,
+            "last_commit": "2026-08-29T08:04:00Z",
+            "open_issues": 986,
             "owner": "microsoft",
             "repo": "WSL",
-            "stars": 33550,
+            "stars": 33557,
             "topics": []
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
@@ -2246,7 +2252,7 @@
             "open_issues": 185,
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37526,
+            "stars": 37529,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2309,7 +2315,7 @@
             "open_issues": 9,
             "owner": "awesome-lists",
             "repo": "awesome-bash",
-            "stars": 10054,
+            "stars": 10055,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2425,7 +2431,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:16:30.385Z",
+    "last_updated": "2026-08-29T13:53:11.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list dedicated to Windows Subsystem for Linux",
@@ -2437,7 +2443,7 @@
       "open_issues": 8,
       "owner": "sirredbeard",
       "repo": "awesome-wsl",
-      "stars": 6540,
+      "stars": 6539,
       "topics": [
         "awesome",
         "awesome-list",
