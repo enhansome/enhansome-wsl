@@ -21,7 +21,7 @@
                 "open_issues": 134,
                 "owner": "microsoft",
                 "repo": "WSL2-Linux-Kernel",
-                "stars": 10548,
+                "stars": 10549,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
@@ -91,7 +91,7 @@
                 "open_issues": 257,
                 "owner": "jlevy",
                 "repo": "the-art-of-command-line",
-                "stars": 162190,
+                "stars": 162192,
                 "topics": [
                   "bash",
                   "documentation",
@@ -365,7 +365,7 @@
             "open_issues": 64,
             "owner": "yuk7",
             "repo": "ArchWSL",
-            "stars": 7396,
+            "stars": 7395,
             "topics": [
               "archlinux",
               "uwp-apps",
@@ -737,10 +737,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-08-28T19:41:14Z",
-                "open_issues": 1765,
+                "open_issues": 1767,
                 "owner": "microsoft",
                 "repo": "terminal",
-                "stars": 104744,
+                "stars": 104762,
                 "topics": [
                   "cmd",
                   "command-line",
@@ -773,7 +773,7 @@
                 "open_issues": 338,
                 "owner": "alacritty",
                 "repo": "alacritty",
-                "stars": 65559,
+                "stars": 65569,
                 "topics": [
                   "bsd",
                   "gpu",
@@ -805,7 +805,7 @@
                 "open_issues": 240,
                 "owner": "felixse",
                 "repo": "FluentTerminal",
-                "stars": 9608,
+                "stars": 9607,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
@@ -898,11 +898,11 @@
                 "id": 1226151883,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-30T12:14:42Z",
-                "open_issues": 4,
+                "last_commit": "2026-08-31T15:37:01Z",
+                "open_issues": 3,
                 "owner": "ryantsai",
                 "repo": "KKTerm",
-                "stars": 447,
+                "stars": 448,
                 "topics": [
                   "ai-tools",
                   "devops",
@@ -970,11 +970,11 @@
                 "id": 407645904,
                 "language": "Dart",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T19:39:54Z",
+                "last_commit": "2026-08-31T06:04:22Z",
                 "open_issues": 23,
                 "owner": "bostrot",
                 "repo": "wsl2-distro-manager",
-                "stars": 3966,
+                "stars": 3968,
                 "topics": [
                   "collaborate",
                   "docker",
@@ -1006,7 +1006,7 @@
                 "open_issues": 8,
                 "owner": "owu",
                 "repo": "wsl-dashboard",
-                "stars": 3643,
+                "stars": 3656,
                 "topics": [
                   "auto-start",
                   "dashboard",
@@ -1130,7 +1130,7 @@
                 "open_issues": 0,
                 "owner": "wslutilities",
                 "repo": "wslu",
-                "stars": 3749,
+                "stars": 3748,
                 "topics": [
                   "alpine-linux",
                   "arch-linux",
@@ -1165,7 +1165,7 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-08-25T03:29:43Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "sakai135",
                 "repo": "wsl-vpnkit",
                 "stars": 2951,
@@ -1194,7 +1194,7 @@
                 "open_issues": 33,
                 "owner": "nullpo-head",
                 "repo": "WSL-Hello-sudo",
-                "stars": 1317,
+                "stars": 1318,
                 "topics": [
                   "linux-pam",
                   "wsl"
@@ -1587,7 +1587,7 @@
                 "open_issues": 5,
                 "owner": "celloza",
                 "repo": "porthole",
-                "stars": 14,
+                "stars": 15,
                 "topics": [
                   "containers",
                   "csharp",
@@ -1678,11 +1678,11 @@
                 "id": 1161527482,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-08-22T06:32:22Z",
+                "last_commit": "2026-08-31T10:57:24Z",
                 "open_issues": 1,
                 "owner": "congmnguyen",
                 "repo": "claude-code-wsl2-setup",
-                "stars": 46,
+                "stars": 47,
                 "topics": [
                   "agentic-coding",
                   "anthropic",
@@ -1721,11 +1721,11 @@
                 "id": 164140756,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-28T17:06:22Z",
-                "open_issues": 468,
+                "last_commit": "2026-08-31T14:06:34Z",
+                "open_issues": 460,
                 "owner": "files-community",
                 "repo": "Files",
-                "stars": 44828,
+                "stars": 44838,
                 "topics": [
                   "alternatives",
                   "csharp",
@@ -1767,7 +1767,7 @@
                 "open_issues": 42,
                 "owner": "microsoft",
                 "repo": "WSL-DistroLauncher",
-                "stars": 1733,
+                "stars": 1732,
                 "topics": [
                   "uwp-apps",
                   "wsl"
@@ -2149,11 +2149,11 @@
             "id": 55626935,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-08-30T08:03:48Z",
-            "open_issues": 990,
+            "last_commit": "2026-08-31T15:53:39Z",
+            "open_issues": 989,
             "owner": "microsoft",
             "repo": "WSL",
-            "stars": 33567,
+            "stars": 33581,
             "topics": []
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
@@ -2252,7 +2252,7 @@
             "open_issues": 184,
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37540,
+            "stars": 37542,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2282,7 +2282,7 @@
             "open_issues": 54,
             "owner": "viatsko",
             "repo": "awesome-vscode",
-            "stars": 28984,
+            "stars": 28990,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2340,7 +2340,7 @@
             "open_issues": 14,
             "owner": "janikvonrotz",
             "repo": "awesome-powershell",
-            "stars": 5408,
+            "stars": 5409,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2372,7 +2372,7 @@
             "open_issues": 33,
             "owner": "inputsh",
             "repo": "awesome-linux",
-            "stars": 5130,
+            "stars": 5133,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2431,7 +2431,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T13:52:00.131Z",
+    "last_updated": "2026-08-31T16:14:41.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list dedicated to Windows Subsystem for Linux",
@@ -2443,7 +2443,7 @@
       "open_issues": 8,
       "owner": "sirredbeard",
       "repo": "awesome-wsl",
-      "stars": 6540,
+      "stars": 6541,
       "topics": [
         "awesome",
         "awesome-list",
