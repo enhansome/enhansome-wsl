@@ -21,7 +21,7 @@
                 "open_issues": 134,
                 "owner": "microsoft",
                 "repo": "WSL2-Linux-Kernel",
-                "stars": 10562,
+                "stars": 10561,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
@@ -91,7 +91,7 @@
                 "open_issues": 256,
                 "owner": "jlevy",
                 "repo": "the-art-of-command-line",
-                "stars": 162494,
+                "stars": 162489,
                 "topics": [
                   "bash",
                   "documentation",
@@ -292,7 +292,7 @@
                 "open_issues": 92,
                 "owner": "WhitewaterFoundry",
                 "repo": "Pengwin",
-                "stars": 1519,
+                "stars": 1518,
                 "topics": [
                   "debian",
                   "hacktoberfest",
@@ -394,7 +394,7 @@
             "open_issues": 7,
             "owner": "yuk7",
             "repo": "wsldl",
-            "stars": 1945,
+            "stars": 1946,
             "topics": [
               "linux",
               "windows-10",
@@ -736,11 +736,11 @@
                 "id": 100060912,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-22T23:26:16Z",
+                "last_commit": "2026-09-23T20:38:14Z",
                 "open_issues": 1772,
                 "owner": "microsoft",
                 "repo": "terminal",
-                "stars": 104973,
+                "stars": 104977,
                 "topics": [
                   "cmd",
                   "command-line",
@@ -773,7 +773,7 @@
                 "open_issues": 343,
                 "owner": "alacritty",
                 "repo": "alacritty",
-                "stars": 65795,
+                "stars": 65807,
                 "topics": [
                   "bsd",
                   "gpu",
@@ -805,7 +805,7 @@
                 "open_issues": 240,
                 "owner": "felixse",
                 "repo": "FluentTerminal",
-                "stars": 9605,
+                "stars": 9604,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
@@ -873,7 +873,7 @@
                 "open_issues": 134,
                 "owner": "sedwards2009",
                 "repo": "extraterm",
-                "stars": 2827,
+                "stars": 2826,
                 "topics": [
                   "javascript",
                   "ssh-client",
@@ -898,11 +898,11 @@
                 "id": 1226151883,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-23T06:52:08Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-24T12:31:28Z",
+                "open_issues": 5,
                 "owner": "ryantsai",
                 "repo": "KKTerm",
-                "stars": 495,
+                "stars": 498,
                 "topics": [
                   "ai-tools",
                   "devops",
@@ -946,7 +946,7 @@
                 "open_issues": 22,
                 "owner": "DDoSolitary",
                 "repo": "LxRunOffline",
-                "stars": 4269,
+                "stars": 4270,
                 "topics": [
                   "bash",
                   "bash-on-windows",
@@ -1013,7 +1013,7 @@
                 "open_issues": 10,
                 "owner": "owu",
                 "repo": "wsl-dashboard",
-                "stars": 3847,
+                "stars": 3858,
                 "topics": [
                   "auto-start",
                   "dashboard",
@@ -1175,7 +1175,7 @@
                 "open_issues": 2,
                 "owner": "sakai135",
                 "repo": "wsl-vpnkit",
-                "stars": 2963,
+                "stars": 2964,
                 "topics": [
                   "vpn",
                   "vpnkit",
@@ -1728,11 +1728,11 @@
                 "id": 164140756,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-22T22:48:53Z",
-                "open_issues": 457,
+                "last_commit": "2026-09-23T21:44:51Z",
+                "open_issues": 462,
                 "owner": "files-community",
                 "repo": "Files",
-                "stars": 45627,
+                "stars": 45650,
                 "topics": [
                   "alternatives",
                   "csharp",
@@ -2193,11 +2193,11 @@
             "id": 55626935,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-23T07:07:53Z",
-            "open_issues": 989,
+            "last_commit": "2026-09-23T23:31:17Z",
+            "open_issues": 992,
             "owner": "microsoft",
             "repo": "WSL",
-            "stars": 33761,
+            "stars": 33770,
             "topics": []
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
@@ -2293,10 +2293,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-08-28T14:40:51Z",
-            "open_issues": 187,
+            "open_issues": 186,
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37663,
+            "stars": 37667,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2323,10 +2323,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-06-21T09:36:55Z",
-            "open_issues": 64,
+            "open_issues": 65,
             "owner": "viatsko",
             "repo": "awesome-vscode",
-            "stars": 29067,
+            "stars": 29069,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2359,7 +2359,7 @@
             "open_issues": 7,
             "owner": "awesome-lists",
             "repo": "awesome-bash",
-            "stars": 10091,
+            "stars": 10092,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2416,7 +2416,7 @@
             "open_issues": 33,
             "owner": "inputsh",
             "repo": "awesome-linux",
-            "stars": 5150,
+            "stars": 5149,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2475,7 +2475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T13:44:11.362Z",
+    "last_updated": "2026-09-24T13:38:17.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list dedicated to Windows Subsystem for Linux",
@@ -2487,7 +2487,7 @@
       "open_issues": 7,
       "owner": "sirredbeard",
       "repo": "awesome-wsl",
-      "stars": 6567,
+      "stars": 6568,
       "topics": [
         "awesome",
         "awesome-list",
