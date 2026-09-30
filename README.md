@@ -133,7 +133,7 @@ On September 21<sup>st</sup> 2022, Microsoft announced<sup><strong>\[1]</strong>
 
 #### The WSL Shell
 
-* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,544 | 🐛 256 | 📅 2024-06-25 - Master the command line in one page. ![github project][githublogo]
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,549 | 🐛 256 | 📅 2024-06-25 - Master the command line in one page. ![github project][githublogo]
 * [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps) ⚠️ Archived [![Awesome][awesomelogo]](https://awesome.re) ![github project][githublogo]
 * [Everything You Can Do With Windows 10’s New Bash Shell](https://www.howtogeek.com/265900/everything-you-can-do-with-windows-10s-new-bash-shell/)
 * [The Unix Workbench](http://seankross.com/the-unix-workbench/) - A book for anyone to get started with Unix/Linux environments.
@@ -171,7 +171,7 @@ WSL allows for CUDA usage in the Linux environment for machine learning, intense
 * [CUDA drivers and toolkit](https://developer.nvidia.com/cuda-toolkit) are required to be installed on Windows. 11.7 is recommended.
 * [Section 3](https://docs.nvidia.com/cuda/wsl-user-guide/index.html) will instruct how to install the CUDA requirements inside WSL. **Do not install a driver inside WSL.** The Windows driver will be used through the 5.10 kernel.
 
-You can test the install after following the above steps through PyTorch (`torch.cuda.is_available()`) or similar tools. Another option is using the [NVIDIA CUDA Samples](https://github.com/NVIDIA/cuda-samples) ⭐ 9,667 | 🐛 137 | 🌐 C++ | 📅 2026-09-09.
+You can test the install after following the above steps through PyTorch (`torch.cuda.is_available()`) or similar tools. Another option is using the [NVIDIA CUDA Samples](https://github.com/NVIDIA/cuda-samples) ⭐ 9,670 | 🐛 137 | 🌐 C++ | 📅 2026-09-09.
 
 #### Other WSL Uses
 
@@ -279,7 +279,7 @@ Unofficial distributions must be installed manually or with tools listed below. 
 * [wsldl](https://github.com/yuk7/wsldl) ⭐ 1,947 | 🐛 7 | 🌐 Go | 📅 2026-09-14 - General purpose WSL installer and launcher. ![github project][githublogo]
 * [WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher) ⭐ 1,664 | 🐛 45 | 🌐 Python | 📅 2022-01-25 - Scripts to replace the distribution behind WSL with any other Linux distribution published on [Docker Hub](https://hub.docker.com/explore/). Includes alpine, CentOS, Fedora, Clear, and others. ![github project][githublogo]
 * [CentWSL](https://github.com/yuk7/CentWSL) ⚠️ Archived - CentOS as a WSL distro. ![github project][githublogo]
-* [AlpineWSL](https://github.com/yuk7/AlpineWSL) ⭐ 661 | 🐛 5 | 🌐 Makefile | 📅 2026-03-25 - Alpine in WSL. ![github project][githublogo]
+* [AlpineWSL](https://github.com/yuk7/AlpineWSL) ⭐ 660 | 🐛 5 | 🌐 Makefile | 📅 2026-03-25 - Alpine in WSL. ![github project][githublogo]
 * [WSLInstall](https://github.com/Biswa96/WSLInstall) ⭐ 254 | 🐛 2 | 🌐 C | 📅 2020-10-23 - Install any GNU/Linux distribution userspace in Windows Subsystem for Linux (WSL) with compressed RootFS tarballs, Docker containers, or ISO files. ![github project][githublogo]
 * [FedoraWSL](https://github.com/yosukes-dev/FedoraWSL) ⭐ 139 | 🐛 0 | 🌐 Makefile | 📅 2023-01-24 - Fedora as a WSL distro. ![github project][githublogo]
 * [RHWSL](https://github.com/yosukes-dev/RHWSL) ⚠️ Archived - Red Hat Universal Base Image as a WSL distro. If you have a Red Hat Subscription, you can register and subscribe the system and use it as RHEL. ![github project][githublogo]
@@ -308,13 +308,13 @@ An X server running on Windows is required for running Linux GUI apps on Windows
 
 #### Terminals
 
-* [Windows Terminal](https://github.com/microsoft/terminal) ⭐ 105,033 | 🐛 1,779 | 🌐 C++ | 📅 2026-09-29 - The new open-source Windows Terminal. ![github\_project][githublogo]
-* [Alacritty](https://github.com/alacritty/alacritty) ⭐ 65,853 | 🐛 342 | 🌐 Rust | 📅 2026-08-31 - A terminal emulator with focus on performance and simplicity.
+* [Windows Terminal](https://github.com/microsoft/terminal) ⭐ 105,034 | 🐛 1,773 | 🌐 C++ | 📅 2026-09-30 - The new open-source Windows Terminal. ![github\_project][githublogo]
+* [Alacritty](https://github.com/alacritty/alacritty) ⭐ 65,868 | 🐛 342 | 🌐 Rust | 📅 2026-08-31 - A terminal emulator with focus on performance and simplicity.
 * [Fluent Terminal](https://github.com/felixse/FluentTerminal) ⭐ 9,604 | 🐛 240 | 🌐 C# | 📅 2025-12-22 - A Terminal Emulator based on UWP and web technologies.
-* [wsltty](https://github.com/mintty/wsltty) ⭐ 3,195 | 🐛 26 | 🌐 C | 📅 2025-09-02 - Mintty as a terminal for WSL. ![github project][githublogo]
+* [wsltty](https://github.com/mintty/wsltty) ⭐ 3,195 | 🐛 27 | 🌐 C | 📅 2025-09-02 - Mintty as a terminal for WSL. ![github project][githublogo]
 * [wsl-terminal](https://github.com/goreliu/wsl-terminal) ⭐ 3,124 | 🐛 29 | 🌐 Shell | 📅 2020-09-11 - A terminal emulator for WSL, based on mintty, fatty and wslbridge. ![github project][githublogo]
 * [extraterm](https://github.com/sedwards2009/extraterm) ⭐ 2,826 | 🐛 134 | 🌐 TypeScript | 📅 2026-06-05 - Open source project to build a terminal emulator and expand it with new features to support modern workflows. ![github project][githublogo]
-* [KKTerm](https://github.com/ryantsai/KKTerm) ⭐ 499 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-29 - A Windows-first, local-first terminal for managing connections, sessions, and workspaces.
+* [KKTerm](https://github.com/ryantsai/KKTerm) ⭐ 499 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-30 - A Windows-first, local-first terminal for managing connections, sessions, and workspaces.
 * [Tabby](https://tabby.sh/) - A terminal for a more modern age. ![github project][githublogo]
 * [ConEmu](https://conemu.github.io) - ConEmu aims to be handy, comprehensive, fast and reliable terminal where you may host any console application for the Windows command line, PowerShell, or WSL.
 * [MobaXterm](https://mobaxterm.mobatek.net) - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more.
@@ -326,9 +326,9 @@ An X server running on Windows is required for running Linux GUI apps on Windows
 #### For Managing WSL Installations
 
 * [LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) ⭐ 4,269 | 🐛 22 | 🌐 C++ | 📅 2022-02-02 - A full-featured utility for managing WSL. ![github project][githublogo]
-* [WSL Manager](https://github.com/bostrot/wsl2-distro-manager) ⭐ 4,010 | 🐛 1 | 🌐 Dart | 📅 2026-09-20 - Free, open-source GUI for WSL: install distros from a catalogue or any Docker image, copy, move, back up and compact them, edit `.wslconfig`, mount disks, manage a remote host's WSL over SSH; optional AI assistant and MCP server. Also manages native Linux VMs on macOS. ![github project][githublogo]
-* [WSL Dashboard](https://github.com/owu/wsl-dashboard) ⭐ 3,890 | 🐛 11 | 🌐 Rust | 📅 2026-09-23 - A modern, lightweight GUI dashboard for managing WSL distributions. ![github project][githublogo]
-* [WSL UI](https://github.com/octasoft-ltd/wsl-ui) ⭐ 400 | 🐛 39 | 🌐 TypeScript | 📅 2026-09-03 - A lightweight desktop application for managing WSL distributions built with Tauri. ![github project][githublogo]
+* [WSL Manager](https://github.com/bostrot/wsl2-distro-manager) ⭐ 4,011 | 🐛 1 | 🌐 Dart | 📅 2026-09-20 - Free, open-source GUI for WSL: install distros from a catalogue or any Docker image, copy, move, back up and compact them, edit `.wslconfig`, mount disks, manage a remote host's WSL over SSH; optional AI assistant and MCP server. Also manages native Linux VMs on macOS. ![github project][githublogo]
+* [WSL Dashboard](https://github.com/owu/wsl-dashboard) ⭐ 3,894 | 🐛 12 | 🌐 Rust | 📅 2026-09-23 - A modern, lightweight GUI dashboard for managing WSL distributions. ![github project][githublogo]
+* [WSL UI](https://github.com/octasoft-ltd/wsl-ui) ⭐ 402 | 🐛 53 | 🌐 TypeScript | 📅 2026-09-30 - A lightweight desktop application for managing WSL distributions built with Tauri. ![github project][githublogo]
 * [WSL GUI Tool](https://github.com/emeric-martineau/wsl-gui-tool) ⭐ 108 | 🐛 1 | 🌐 Pascal | 📅 2023-02-05 - A graphical tool to manage (run, stop, import, export...) WSL. ![github project][githublogo]
 * [Ansible-WSL](https://github.com/Wintus/Ansible-WSL) ⭐ 72 | 🐛 1 | 📅 2021-06-06 - Provision WSL using Ansible. ![github project][githublogo]
 * [Raft WSL](https://www.microsoft.com/store/apps/9MSMJQD017X7) - Raft is a Windows Subsystem for Linux (WSL) distribution manager in native C#/XAML. 💰
@@ -367,11 +367,11 @@ An X server running on Windows is required for running Linux GUI apps on Windows
 
 #### Miscellaneous Tools
 
-* [Files](https://github.com/files-community/Files) ⭐ 45,741 | 🐛 462 | 🌐 C# | 📅 2026-09-24 - A modern file explorer that supports WSL filesystem. ![github project][githublogo]
+* [Files](https://github.com/files-community/Files) ⭐ 45,759 | 🐛 461 | 🌐 C# | 📅 2026-09-24 - A modern file explorer that supports WSL filesystem. ![github project][githublogo]
 * [WSL-DistroLauncher](https://github.com/Microsoft/WSL-DistroLauncher) ⚠️ Archived - Reference launcher app for developing your own WSL distribution Microsoft Store package. ![github project][githublogo]
 * [cmd-colors-solarized](https://github.com/neilpa/cmd-colors-solarized) ⭐ 1,109 | 🐛 11 | 🌐 PowerShell | 📅 2021-09-29 - This is a solarized color scheme for the Windows command prompt that works in WSL.
 * [BootShellCredentialProvider](https://github.com/NathanCastle/BootShellCredentialProvider) ⭐ 785 | 🐛 7 | 🌐 C++ | 📅 2021-01-12 - BSCP lets you boot Windows directly into a Linux desktop experience such as xfce4 using Windows native login and a combination of Xming & WSL upon login. ![github project][githublogo]
-* [WinCryptSSHAgent](https://github.com/buptczq/WinCryptSSHAgent) ⭐ 587 | 🐛 41 | 🌐 Go | 📅 2024-06-06 - Using a Yubikey for SSH Authentication on Windows Seamlessly.  Supports WSL and WSL2.
+* [WinCryptSSHAgent](https://github.com/buptczq/WinCryptSSHAgent) ⭐ 588 | 🐛 41 | 🌐 Go | 📅 2024-06-06 - Using a Yubikey for SSH Authentication on Windows Seamlessly.  Supports WSL and WSL2.
 * [easyWSL](https://github.com/redcode-labs/easyWSL) ⭐ 575 | 🐛 15 | 🌐 C# | 📅 2024-11-17 - Use any Docker image as a WSL distro. ![github project][githublogo]
 * [wsl2-ssh-pageant](https://github.com/BlackReloaded/wsl2-ssh-pageant) ⚠️ Archived - A bridge between Windows Pageant and WSL2.
 * [wslbridge](https://github.com/rprichard/wslbridge) ⭐ 351 | 🐛 31 | 🌐 C++ | 📅 2020-09-16 - wslbridge is a Cygwin program that allows connecting to the WSL command-line environment over TCP sockets, as with ssh, but without the overhead of configuring an SSH server. ![github project][githublogo]
@@ -393,8 +393,8 @@ An X server running on Windows is required for running Linux GUI apps on Windows
 
 ## Additional Resources
 
-* [WSL on GitHub](https://github.com/Microsoft/WSL) ⭐ 33,793 | 🐛 999 | 🌐 C++ | 📅 2026-09-29 - For reporting issues with WSL. ![github project][githublogo]
-* [Portable Node.js guide](https://github.com/ehmicky/portable-node-guide) ⭐ 1,424 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-25 - Practical guide on how to write portable/cross-platform Node.js code.
+* [WSL on GitHub](https://github.com/Microsoft/WSL) ⭐ 33,843 | 🐛 1,009 | 🌐 C++ | 📅 2026-09-30 - For reporting issues with WSL. ![github project][githublogo]
+* [Portable Node.js guide](https://github.com/ehmicky/portable-node-guide) ⭐ 1,425 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-25 - Practical guide on how to write portable/cross-platform Node.js code.
 * [WSL-Programs](https://github.com/ethanhs/WSL-Programs) ⚠️ Archived - A community powered list of programs that work on the Windows Subsystem for Linux. ![github project][githublogo]
 * Microsoft [WSL Official Documentation](https://docs.microsoft.com/en-us/windows/wsl/)
 * Microsoft [WSL Blog](https://blogs.msdn.microsoft.com/wsl)
@@ -418,9 +418,9 @@ An X server running on Windows is required for running Linux GUI apps on Windows
 
 ## More Awesome
 
-* [Awesome Shell](https://github.com/alebcay/awesome-shell) ⭐ 37,695 | 🐛 188 | 📅 2025-08-28
-* [Awesome VSCode](https://github.com/viatsko/awesome-vscode) ⭐ 29,085 | 🐛 67 | 🌐 JavaScript | 📅 2026-06-21
-* [Awesome Bash](https://github.com/awesome-lists/awesome-bash) ⭐ 10,109 | 🐛 7 | 🌐 Shell | 📅 2026-05-21
+* [Awesome Shell](https://github.com/alebcay/awesome-shell) ⭐ 37,697 | 🐛 188 | 📅 2025-08-28
+* [Awesome VSCode](https://github.com/viatsko/awesome-vscode) ⭐ 29,089 | 🐛 69 | 🌐 JavaScript | 📅 2026-06-21
+* [Awesome Bash](https://github.com/awesome-lists/awesome-bash) ⭐ 10,111 | 🐛 7 | 🌐 Shell | 📅 2026-05-21
 * [Awesome Powershell](https://github.com/janikvonrotz/awesome-powershell) ⚠️ Archived
 * [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux) ⚠️ Archived
 * [Awesome UNIX](https://github.com/sirredbeard/Awesome-UNIX) ⭐ 1,779 | 🐛 3 | 📅 2026-07-29
@@ -467,4 +467,4 @@ This document is licensed under [CC BY-SA 4.0 license](https://creativecommons.o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
