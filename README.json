@@ -21,7 +21,7 @@
                 "open_issues": 134,
                 "owner": "microsoft",
                 "repo": "WSL2-Linux-Kernel",
-                "stars": 10586,
+                "stars": 10587,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
@@ -91,7 +91,7 @@
                 "open_issues": 256,
                 "owner": "jlevy",
                 "repo": "the-art-of-command-line",
-                "stars": 162565,
+                "stars": 162575,
                 "topics": [
                   "bash",
                   "documentation",
@@ -119,7 +119,7 @@
                 "open_issues": 0,
                 "owner": "herrbischoff",
                 "repo": "awesome-command-line-apps",
-                "stars": 4221,
+                "stars": 4222,
                 "topics": [
                   "apps",
                   "awesome",
@@ -365,7 +365,7 @@
             "open_issues": 64,
             "owner": "yuk7",
             "repo": "ArchWSL",
-            "stars": 7397,
+            "stars": 7394,
             "topics": [
               "archlinux",
               "uwp-apps",
@@ -394,7 +394,7 @@
             "open_issues": 7,
             "owner": "yuk7",
             "repo": "wsldl",
-            "stars": 1948,
+            "stars": 1947,
             "topics": [
               "linux",
               "windows-10",
@@ -736,11 +736,11 @@
                 "id": 100060912,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-20T03:06:50Z",
-                "open_issues": 1783,
+                "last_commit": "2026-10-21T03:04:48Z",
+                "open_issues": 1780,
                 "owner": "microsoft",
                 "repo": "terminal",
-                "stars": 105196,
+                "stars": 105208,
                 "topics": [
                   "cmd",
                   "command-line",
@@ -770,10 +770,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T05:47:54Z",
-                "open_issues": 342,
+                "open_issues": 343,
                 "owner": "alacritty",
                 "repo": "alacritty",
-                "stars": 66007,
+                "stars": 66014,
                 "topics": [
                   "bsd",
                   "gpu",
@@ -847,7 +847,7 @@
                 "open_issues": 29,
                 "owner": "mskyaxl",
                 "repo": "wsl-terminal",
-                "stars": 3122,
+                "stars": 3123,
                 "topics": [
                   "mintty",
                   "terminal-emulator",
@@ -946,7 +946,7 @@
                 "open_issues": 22,
                 "owner": "DDoSolitary",
                 "repo": "LxRunOffline",
-                "stars": 4266,
+                "stars": 4267,
                 "topics": [
                   "bash",
                   "bash-on-windows",
@@ -974,7 +974,7 @@
                 "open_issues": 1,
                 "owner": "bostrot",
                 "repo": "wslmanager",
-                "stars": 4030,
+                "stars": 4033,
                 "topics": [
                   "ai",
                   "developer-tools",
@@ -1013,7 +1013,7 @@
                 "open_issues": 8,
                 "owner": "owu",
                 "repo": "wsl-dashboard",
-                "stars": 4013,
+                "stars": 4018,
                 "topics": [
                   "auto-start",
                   "dashboard",
@@ -1123,44 +1123,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "wslu",
-              "description": "A collection of utilities for Windows 10 Linux Subsystem, such as enabling sound in WSL and creating your favorite linux GUI application shortcuts on Windows 10.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "A collection of utilities for Windows Subsystem for Linux",
-                "homepage": "https://wslutiliti.es/wslu",
-                "id": 91957658,
-                "language": "Shell",
-                "license": "GPL-3.0",
-                "last_commit": "2025-03-01T13:59:15Z",
-                "open_issues": 0,
-                "owner": "wslutilities",
-                "repo": "wslu",
-                "stars": 3744,
-                "topics": [
-                  "alpine-linux",
-                  "arch-linux",
-                  "bash",
-                  "bashonwindows",
-                  "centos",
-                  "debian",
-                  "fedora",
-                  "kali-linux",
-                  "linux",
-                  "opensuse",
-                  "pengwin",
-                  "shell",
-                  "sles",
-                  "ubuntu",
-                  "windows-subsystem-for-linux",
-                  "wsl"
-                ]
-              },
-              "first_seen": "2026-08-28T20:15:58.214Z"
-            },
-            {
-              "node_type": "item",
               "title": "wsl-vpnkit",
               "description": "Script providing network connectivity to WSL 2 when blocked by VPN.",
               "children": [],
@@ -1172,7 +1134,7 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-10-20T02:12:25Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "sakai135",
                 "repo": "wsl-vpnkit",
                 "stars": 2970,
@@ -1411,34 +1373,6 @@
             },
             {
               "node_type": "item",
-              "title": "wslpy",
-              "description": "A Python3 library for WSL specific tasks.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "A python3 Library for WSL specific tasks ",
-                "homepage": "https://wslutiliti.es/wslpy",
-                "id": 145207154,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2022-05-02T06:59:49Z",
-                "open_issues": 0,
-                "owner": "wslutilities",
-                "repo": "wslpy",
-                "stars": 75,
-                "topics": [
-                  "python",
-                  "python3",
-                  "python3-library",
-                  "windows",
-                  "windows-subsystem-for-linux",
-                  "wsl"
-                ]
-              },
-              "first_seen": "2026-08-28T20:15:58.214Z"
-            },
-            {
-              "node_type": "item",
               "title": "xclip-xsel-WSL",
               "description": "Make and in read and write on the Windows instead of the Linux clipboard. .",
               "children": [],
@@ -1515,8 +1449,8 @@
                 "id": 1318161943,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-18T14:07:15Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-21T13:24:47Z",
+                "open_issues": 2,
                 "owner": "slidict",
                 "repo": "wip",
                 "stars": 39,
@@ -1731,7 +1665,7 @@
                 "open_issues": 0,
                 "owner": "congmnguyen",
                 "repo": "claude-code-wsl2-setup",
-                "stars": 52,
+                "stars": 53,
                 "topics": [
                   "agentic-coding",
                   "anthropic",
@@ -1770,11 +1704,11 @@
                 "id": 164140756,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-20T04:25:29Z",
+                "last_commit": "2026-10-21T13:54:11Z",
                 "open_issues": 464,
                 "owner": "files-community",
                 "repo": "Files",
-                "stars": 46104,
+                "stars": 46130,
                 "topics": [
                   "alternatives",
                   "csharp",
@@ -1816,7 +1750,7 @@
                 "open_issues": 43,
                 "owner": "microsoft",
                 "repo": "WSL-DistroLauncher",
-                "stars": 1732,
+                "stars": 1733,
                 "topics": [
                   "uwp-apps",
                   "wsl"
@@ -2240,11 +2174,11 @@
             "id": 55626935,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-20T10:57:11Z",
-            "open_issues": 1025,
+            "last_commit": "2026-10-21T13:43:15Z",
+            "open_issues": 1031,
             "owner": "microsoft",
             "repo": "WSL",
-            "stars": 34145,
+            "stars": 34157,
             "topics": []
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
@@ -2307,7 +2241,7 @@
             "open_issues": 6,
             "owner": "emmatyping",
             "repo": "WSL-Programs",
-            "stars": 1133,
+            "stars": 1132,
             "topics": [
               "bash",
               "community",
@@ -2343,7 +2277,7 @@
             "open_issues": 192,
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37811,
+            "stars": 37815,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2373,7 +2307,7 @@
             "open_issues": 84,
             "owner": "viatsko",
             "repo": "awesome-vscode",
-            "stars": 29137,
+            "stars": 29142,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2406,7 +2340,7 @@
             "open_issues": 8,
             "owner": "awesome-lists",
             "repo": "awesome-bash",
-            "stars": 10147,
+            "stars": 10148,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2431,7 +2365,7 @@
             "open_issues": 14,
             "owner": "janikvonrotz",
             "repo": "awesome-powershell",
-            "stars": 5406,
+            "stars": 5408,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2463,7 +2397,7 @@
             "open_issues": 33,
             "owner": "inputsh",
             "repo": "awesome-linux",
-            "stars": 5177,
+            "stars": 5176,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2492,7 +2426,7 @@
             "open_issues": 3,
             "owner": "sirredbeard",
             "repo": "awesome-unix",
-            "stars": 1784,
+            "stars": 1785,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2522,7 +2456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T13:42:04.941Z",
+    "last_updated": "2026-10-21T13:58:34.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list dedicated to Windows Subsystem for Linux",
@@ -2534,7 +2468,7 @@
       "open_issues": 10,
       "owner": "sirredbeard",
       "repo": "awesome-wsl",
-      "stars": 6584,
+      "stars": 6589,
       "topics": [
         "awesome",
         "awesome-list",
