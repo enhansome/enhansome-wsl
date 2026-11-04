@@ -91,7 +91,7 @@
                 "open_issues": 256,
                 "owner": "jlevy",
                 "repo": "the-art-of-command-line",
-                "stars": 162661,
+                "stars": 162667,
                 "topics": [
                   "bash",
                   "documentation",
@@ -365,7 +365,7 @@
             "open_issues": 63,
             "owner": "yuk7",
             "repo": "ArchWSL",
-            "stars": 7394,
+            "stars": 7395,
             "topics": [
               "archlinux",
               "uwp-apps",
@@ -740,7 +740,7 @@
                 "open_issues": 1766,
                 "owner": "microsoft",
                 "repo": "terminal",
-                "stars": 105318,
+                "stars": 105320,
                 "topics": [
                   "cmd",
                   "command-line",
@@ -770,10 +770,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-02T05:42:37Z",
-                "open_issues": 346,
+                "open_issues": 345,
                 "owner": "alacritty",
                 "repo": "alacritty",
-                "stars": 66109,
+                "stars": 66112,
                 "topics": [
                   "bsd",
                   "gpu",
@@ -805,7 +805,7 @@
                 "open_issues": 240,
                 "owner": "felixse",
                 "repo": "FluentTerminal",
-                "stars": 9602,
+                "stars": 9604,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
@@ -826,7 +826,7 @@
                 "open_issues": 27,
                 "owner": "mintty",
                 "repo": "wsltty",
-                "stars": 3193,
+                "stars": 3192,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
@@ -946,7 +946,7 @@
                 "open_issues": 22,
                 "owner": "DDoSolitary",
                 "repo": "LxRunOffline",
-                "stars": 4267,
+                "stars": 4268,
                 "topics": [
                   "bash",
                   "bash-on-windows",
@@ -974,7 +974,7 @@
                 "open_issues": 11,
                 "owner": "owu",
                 "repo": "wsl-dashboard",
-                "stars": 4074,
+                "stars": 4078,
                 "topics": [
                   "auto-start",
                   "dashboard",
@@ -1008,7 +1008,7 @@
                 "open_issues": 2,
                 "owner": "bostrot",
                 "repo": "wslmanager",
-                "stars": 4052,
+                "stars": 4053,
                 "topics": [
                   "ai",
                   "developer-tools",
@@ -1047,7 +1047,7 @@
                 "open_issues": 20,
                 "owner": "octasoft-ltd",
                 "repo": "wsl-ui",
-                "stars": 442,
+                "stars": 443,
                 "topics": [
                   "desktop-app",
                   "react",
@@ -1137,7 +1137,7 @@
                 "open_issues": 1,
                 "owner": "sakai135",
                 "repo": "wsl-vpnkit",
-                "stars": 2977,
+                "stars": 2978,
                 "topics": [
                   "vpn",
                   "vpnkit",
@@ -1219,7 +1219,7 @@
                 "open_issues": 8,
                 "owner": "4U6U57",
                 "repo": "wsl-open",
-                "stars": 553,
+                "stars": 554,
                 "topics": [
                   "linux",
                   "windows-subsystem",
@@ -1449,8 +1449,8 @@
                 "id": 1318161943,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-03T07:16:00Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-04T12:12:57Z",
+                "open_issues": 3,
                 "owner": "slidict",
                 "repo": "wip",
                 "stars": 39,
@@ -1630,7 +1630,7 @@
                 "open_issues": 0,
                 "owner": "jbwfu",
                 "repo": "wsl-open",
-                "stars": 3,
+                "stars": 4,
                 "topics": [
                   "windows-subsystem",
                   "windows-subsystem-for-linux",
@@ -1661,7 +1661,7 @@
                 "id": 1161527482,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-29T09:04:19Z",
+                "last_commit": "2026-11-04T15:55:53Z",
                 "open_issues": 0,
                 "owner": "congmnguyen",
                 "repo": "claude-code-wsl2-setup",
@@ -1704,11 +1704,11 @@
                 "id": 164140756,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-03T15:44:58Z",
-                "open_issues": 455,
+                "last_commit": "2026-11-04T16:20:44Z",
+                "open_issues": 457,
                 "owner": "files-community",
                 "repo": "Files",
-                "stars": 46474,
+                "stars": 46495,
                 "topics": [
                   "alternatives",
                   "csharp",
@@ -2010,7 +2010,7 @@
                 "id": 292721064,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T07:59:18Z",
+                "last_commit": "2026-11-04T15:18:37Z",
                 "open_issues": 2,
                 "owner": "Vampire",
                 "repo": "setup-wsl",
@@ -2174,11 +2174,11 @@
             "id": 55626935,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-03T15:29:14Z",
-            "open_issues": 1045,
+            "last_commit": "2026-11-04T15:03:05Z",
+            "open_issues": 1046,
             "owner": "microsoft",
             "repo": "WSL",
-            "stars": 34295,
+            "stars": 34297,
             "topics": []
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
@@ -2199,7 +2199,7 @@
             "open_issues": 0,
             "owner": "ehmicky",
             "repo": "cross-platform-node-guide",
-            "stars": 1423,
+            "stars": 1422,
             "topics": [
               "api",
               "cli",
@@ -2277,7 +2277,7 @@
             "open_issues": 193,
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37894,
+            "stars": 37905,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2307,7 +2307,7 @@
             "open_issues": 90,
             "owner": "viatsko",
             "repo": "awesome-vscode",
-            "stars": 29187,
+            "stars": 29189,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2340,7 +2340,7 @@
             "open_issues": 7,
             "owner": "awesome-lists",
             "repo": "awesome-bash",
-            "stars": 10180,
+            "stars": 10182,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2365,7 +2365,7 @@
             "open_issues": 14,
             "owner": "janikvonrotz",
             "repo": "awesome-powershell",
-            "stars": 5420,
+            "stars": 5421,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2397,7 +2397,7 @@
             "open_issues": 33,
             "owner": "inputsh",
             "repo": "awesome-linux",
-            "stars": 5185,
+            "stars": 5186,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2456,7 +2456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T16:22:13.600Z",
+    "last_updated": "2026-11-04T16:26:22.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list dedicated to Windows Subsystem for Linux",
@@ -2468,7 +2468,7 @@
       "open_issues": 12,
       "owner": "sirredbeard",
       "repo": "awesome-wsl",
-      "stars": 6606,
+      "stars": 6608,
       "topics": [
         "awesome",
         "awesome-list",
