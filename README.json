@@ -21,7 +21,7 @@
                 "open_issues": 134,
                 "owner": "microsoft",
                 "repo": "WSL2-Linux-Kernel",
-                "stars": 10606,
+                "stars": 10607,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
@@ -91,7 +91,7 @@
                 "open_issues": 256,
                 "owner": "jlevy",
                 "repo": "the-art-of-command-line",
-                "stars": 162754,
+                "stars": 162762,
                 "topics": [
                   "bash",
                   "documentation",
@@ -219,7 +219,7 @@
                 "open_issues": 7,
                 "owner": "NathanCastle",
                 "repo": "BootShellCredentialProvider",
-                "stars": 787,
+                "stars": 788,
                 "topics": [
                   "desktop-environment",
                   "windows",
@@ -444,7 +444,7 @@
             "open_issues": 12,
             "owner": "wsldl-pg",
             "repo": "CentWSL",
-            "stars": 1137,
+            "stars": 1136,
             "topics": [
               "centos",
               "windows-10",
@@ -737,10 +737,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-11-11T20:24:55Z",
-                "open_issues": 1780,
+                "open_issues": 1783,
                 "owner": "microsoft",
                 "repo": "terminal",
-                "stars": 105385,
+                "stars": 105390,
                 "topics": [
                   "cmd",
                   "command-line",
@@ -773,7 +773,7 @@
                 "open_issues": 347,
                 "owner": "alacritty",
                 "repo": "alacritty",
-                "stars": 66186,
+                "stars": 66191,
                 "topics": [
                   "bsd",
                   "gpu",
@@ -805,7 +805,7 @@
                 "open_issues": 240,
                 "owner": "felixse",
                 "repo": "FluentTerminal",
-                "stars": 9602,
+                "stars": 9601,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
@@ -826,7 +826,7 @@
                 "open_issues": 27,
                 "owner": "mintty",
                 "repo": "wsltty",
-                "stars": 3192,
+                "stars": 3193,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
@@ -974,7 +974,7 @@
                 "open_issues": 16,
                 "owner": "owu",
                 "repo": "wsl-dashboard",
-                "stars": 4128,
+                "stars": 4131,
                 "topics": [
                   "auto-start",
                   "dashboard",
@@ -1704,11 +1704,11 @@
                 "id": 164140756,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-13T04:24:39Z",
+                "last_commit": "2026-11-15T14:59:46Z",
                 "open_issues": 445,
                 "owner": "files-community",
                 "repo": "Files",
-                "stars": 46648,
+                "stars": 46660,
                 "topics": [
                   "alternatives",
                   "csharp",
@@ -1747,7 +1747,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2025-01-07T22:22:48Z",
-                "open_issues": 43,
+                "open_issues": 42,
                 "owner": "microsoft",
                 "repo": "WSL-DistroLauncher",
                 "stars": 1732,
@@ -1800,7 +1800,7 @@
                 "open_issues": 7,
                 "owner": "NathanCastle",
                 "repo": "BootShellCredentialProvider",
-                "stars": 787,
+                "stars": 788,
                 "topics": [
                   "desktop-environment",
                   "windows",
@@ -2175,10 +2175,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-11-14T00:12:45Z",
-            "open_issues": 1059,
+            "open_issues": 1061,
             "owner": "microsoft",
             "repo": "WSL",
-            "stars": 34384,
+            "stars": 34390,
             "topics": []
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
@@ -2277,7 +2277,7 @@
             "open_issues": 194,
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37956,
+            "stars": 37957,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2307,7 +2307,7 @@
             "open_issues": 91,
             "owner": "viatsko",
             "repo": "awesome-vscode",
-            "stars": 29228,
+            "stars": 29232,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2340,7 +2340,7 @@
             "open_issues": 7,
             "owner": "awesome-lists",
             "repo": "awesome-bash",
-            "stars": 10202,
+            "stars": 10204,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2365,7 +2365,7 @@
             "open_issues": 14,
             "owner": "janikvonrotz",
             "repo": "awesome-powershell",
-            "stars": 5423,
+            "stars": 5422,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2456,7 +2456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T15:13:41.974Z",
+    "last_updated": "2026-11-15T15:44:44.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list dedicated to Windows Subsystem for Linux",
