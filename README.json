@@ -91,7 +91,7 @@
                 "open_issues": 256,
                 "owner": "jlevy",
                 "repo": "the-art-of-command-line",
-                "stars": 162816,
+                "stars": 162822,
                 "topics": [
                   "bash",
                   "documentation",
@@ -365,7 +365,7 @@
             "open_issues": 63,
             "owner": "yuk7",
             "repo": "ArchWSL",
-            "stars": 7389,
+            "stars": 7388,
             "topics": [
               "archlinux",
               "uwp-apps",
@@ -736,11 +736,11 @@
                 "id": 100060912,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-20T12:21:51Z",
-                "open_issues": 1785,
+                "last_commit": "2026-11-21T12:42:03Z",
+                "open_issues": 1789,
                 "owner": "microsoft",
                 "repo": "terminal",
-                "stars": 105459,
+                "stars": 105468,
                 "topics": [
                   "cmd",
                   "command-line",
@@ -773,7 +773,7 @@
                 "open_issues": 346,
                 "owner": "alacritty",
                 "repo": "alacritty",
-                "stars": 66246,
+                "stars": 66250,
                 "topics": [
                   "bsd",
                   "gpu",
@@ -974,7 +974,7 @@
                 "open_issues": 17,
                 "owner": "owu",
                 "repo": "wsl-dashboard",
-                "stars": 4139,
+                "stars": 4140,
                 "topics": [
                   "auto-start",
                   "dashboard",
@@ -1008,7 +1008,7 @@
                 "open_issues": 3,
                 "owner": "bostrot",
                 "repo": "wslmanager",
-                "stars": 4065,
+                "stars": 4066,
                 "topics": [
                   "ai",
                   "developer-tools",
@@ -1133,8 +1133,8 @@
                 "id": 297118626,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-11-20T16:54:07Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-21T03:33:02Z",
+                "open_issues": 1,
                 "owner": "sakai135",
                 "repo": "wsl-vpnkit",
                 "stars": 2982,
@@ -1163,7 +1163,7 @@
                 "open_issues": 33,
                 "owner": "nullpo-head",
                 "repo": "WSL-Hello-sudo",
-                "stars": 1318,
+                "stars": 1317,
                 "topics": [
                   "linux-pam",
                   "wsl"
@@ -1641,6 +1641,41 @@
                 ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
+            },
+            {
+              "node_type": "group",
+              "title": "",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "hvcam",
+                  "description": "Stream a Windows webcam into WSL2 over Hyper-V sockets via Media Foundation — no kernel rebuild or usbipd required.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Stream a Windows webcam into WSL2 over Hyper-V sockets — no kernel rebuild, no usbipd",
+                    "homepage": null,
+                    "id": 1461828113,
+                    "language": "C++",
+                    "license": "MIT",
+                    "last_commit": "2026-11-18T17:36:07Z",
+                    "open_issues": 0,
+                    "owner": "santleme",
+                    "repo": "hvcam",
+                    "stars": 0,
+                    "topics": [
+                      "hyper-v",
+                      "media-foundation",
+                      "opencv",
+                      "usbipd-alternative",
+                      "webcam",
+                      "wsl2"
+                    ]
+                  },
+                  "first_seen": "2026-11-21T16:15:36.953Z"
+                }
+              ]
             }
           ],
           "description": null,
@@ -1684,6 +1719,36 @@
                 ]
               },
               "first_seen": "2026-08-28T20:15:58.214Z"
+            },
+            {
+              "node_type": "item",
+              "title": "nvright",
+              "description": "A low-latency Neovim GUI for Windows that runs inside a WSL distro. Windows clipboard and drag and drop, and a new window in any installed distro.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Low-latency Neovim GUI for Windows, runs nvim in WSL",
+                "homepage": null,
+                "id": 1454035748,
+                "language": "Rust",
+                "license": "MIT",
+                "last_commit": "2026-11-20T21:37:11Z",
+                "open_issues": 0,
+                "owner": "johnright",
+                "repo": "nvright",
+                "stars": 3,
+                "topics": [
+                  "gui",
+                  "neovim",
+                  "neovim-gui",
+                  "nvim",
+                  "rust",
+                  "wgpu",
+                  "windows",
+                  "wsl"
+                ]
+              },
+              "first_seen": "2026-11-21T16:15:36.953Z"
             }
           ],
           "description": null,
@@ -1705,10 +1770,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-19T22:49:33Z",
-                "open_issues": 444,
+                "open_issues": 445,
                 "owner": "files-community",
                 "repo": "Files",
-                "stars": 46729,
+                "stars": 46741,
                 "topics": [
                   "alternatives",
                   "csharp",
@@ -2174,11 +2239,11 @@
             "id": 55626935,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-20T08:03:36Z",
-            "open_issues": 953,
+            "last_commit": "2026-11-21T08:04:11Z",
+            "open_issues": 958,
             "owner": "microsoft",
             "repo": "WSL",
-            "stars": 34436,
+            "stars": 34440,
             "topics": []
           },
           "first_seen": "2026-08-28T20:15:58.214Z"
@@ -2274,10 +2339,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-08-28T14:40:51Z",
-            "open_issues": 197,
+            "open_issues": 196,
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37991,
+            "stars": 37999,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2307,7 +2372,7 @@
             "open_issues": 92,
             "owner": "viatsko",
             "repo": "awesome-vscode",
-            "stars": 29251,
+            "stars": 29255,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2397,7 +2462,7 @@
             "open_issues": 33,
             "owner": "inputsh",
             "repo": "awesome-linux",
-            "stars": 5208,
+            "stars": 5209,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2456,7 +2521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T17:03:17.627Z",
+    "last_updated": "2026-11-21T16:15:36.953Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list dedicated to Windows Subsystem for Linux",
@@ -2464,11 +2529,11 @@
       "id": 134102057,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-10-12T17:11:35Z",
-      "open_issues": 19,
+      "last_commit": "2026-11-21T16:05:18Z",
+      "open_issues": 16,
       "owner": "sirredbeard",
       "repo": "awesome-wsl",
-      "stars": 6621,
+      "stars": 6620,
       "topics": [
         "awesome",
         "awesome-list",
@@ -2481,7 +2546,7 @@
         "wsl"
       ]
     },
-    "original_repository_sha": "67dc98e5c05d253433cddec9f4ff7d550846fcab",
+    "original_repository_sha": "96f16d45cc78666787bd997922a486876fd261ad",
     "enhanced_repository": "enhansome/enhansome-wsl",
     "enhanced_repository_description": null,
     "title": "Awesome WSL - Windows Subsystem for Linux with stars"
